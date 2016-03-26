@@ -1,0 +1,665 @@
+2015-11-01T00:00:00,1100,Foggy overnight.,42.63,55.91
+2015-11-01T00:00:00,1000,Foggy starting in the evening.,42.8,58.56
+2015-11-01T00:00:00,2400,Foggy in the morning.,37.99,63.02
+2015-11-01T00:00:00,2000,Foggy in the morning.,40.56,59.77
+2015-11-01T00:00:00,2100,Foggy in the morning.,40.84,60.54
+2015-11-01T00:00:00,2200,Foggy in the morning.,40.12,62.44
+2015-11-01T00:00:00,2700,Foggy in the morning.,40.09,60.86
+2015-11-01T00:00:00,3100,Clear throughout the day.,39.94,67.53
+2015-11-01T00:00:00,3000,Clear throughout the day.,39.01,66.28
+2015-11-01T00:00:00,3200,Clear throughout the day.,37.8,66.49
+2015-11-01T00:00:00,4000,Clear throughout the day.,42.92,67.02
+2015-11-01T00:00:00,4100,Clear throughout the day.,41.54,67.87
+2015-11-01T00:00:00,5100,Breezy in the morning.,48.53,64.68
+2015-11-01T00:00:00,5000,Clear throughout the day.,39.42,67.5
+2015-11-01T00:00:00,6600,Breezy overnight.,50.37,70.82
+2015-11-01T00:00:00,6240,Breezy overnight.,53.96,69.36
+2015-11-01T00:00:00,6800,Breezy overnight.,52.09,70.03
+2015-11-01T00:00:00,6400,Clear throughout the day.,48.97,71.51
+2015-11-01T00:00:00,6150,Clear throughout the day.,48.5,71.75
+2015-11-01T00:00:00,6130,Clear throughout the day.,48.06,70.81
+2015-11-01T00:00:00,6110,Clear throughout the day.,49.16,71.42
+2015-11-01T00:00:00,6500,Clear throughout the day.,55.36,69.12
+2015-11-01T00:00:00,6000,Breezy overnight.,52.68,69.82
+2015-11-01T00:00:00,6300,Breezy overnight.,53.04,69.7
+2015-11-01T00:00:00,6200,Breezy overnight.,52.2,69.97
+2015-11-01T00:00:00,6190,Clear throughout the day.,55.12,69.18
+2015-11-01T00:00:00,6700,Breezy overnight.,52.14,69.99
+2015-11-01T00:00:00,6220,Breezy overnight.,49.54,71.23
+2015-11-01T00:00:00,6230,Breezy overnight.,52.96,69.73
+2015-11-01T00:00:00,7200,Foggy in the morning.,41.66,66.34
+2015-11-01T00:00:00,7500,Partly cloudy in the morning.,42.41,64.6
+2015-11-01T00:00:00,7000,Foggy in the morning.,41.21,65.65
+2015-11-01T00:00:00,8000,Foggy starting in the evening.,40.13,58.73
+2015-11-01T00:00:00,8200,Foggy overnight.,40.44,59.35
+2015-11-01T00:00:00,9000,Mostly cloudy in the morning.,52.71,70.11
+2015-11-01T00:00:00,9100,Mostly cloudy in the morning.,53.5,70.1
+2015-11-01T00:00:00,10600,Foggy in the morning.,36.13,63.74
+2015-11-01T00:00:00,10000,Foggy in the morning.,36.23,63.57
+2015-11-01T00:00:00,10000,Foggy in the morning.,36.29,63.5
+2015-11-01T00:00:00,10000,Foggy in the morning.,36.24,63.55
+2015-11-01T00:00:00,11000,Mostly cloudy starting in the afternoon.,53.57,69.66
+2015-11-01T00:00:00,11100,Mostly cloudy starting in the afternoon.,51.84,68.42
+2015-11-01T00:00:00,12300,Clear throughout the day.,48.05,66.35
+2015-11-01T00:00:00,12100,Clear throughout the day.,47.31,60.78
+2015-11-01T00:00:00,12000,Clear throughout the day.,46.41,65.49
+2015-11-01T00:00:00,13100,Clear throughout the day.,45.49,70.42
+2015-11-01T00:00:00,13190,Clear throughout the day.,46.89,69.27
+2015-11-01T00:00:00,13200,Clear throughout the day.,45.58,70.6
+2015-11-01T00:00:00,13400,Clear throughout the day.,50.42,68.11
+2015-11-01T00:00:00,13800,Clear throughout the day.,46.16,71
+2015-11-01T00:00:00,13170,Clear throughout the day.,45.7,70.38
+2015-11-01T00:00:00,13700,Clear throughout the day.,45.82,70.24
+2015-11-01T00:00:00,13010,Clear throughout the day.,46.91,69.27
+2015-11-01T00:00:00,13011,Clear throughout the day.,49.82,68.36
+2015-11-01T00:00:00,13012,Clear throughout the day.,46.84,69.3
+2015-11-01T00:00:00,13013,Clear throughout the day.,45.68,70.46
+2015-11-01T00:00:00,13014,Clear throughout the day.,45.68,70.45
+2015-11-01T00:00:00,13015,Clear throughout the day.,45.69,70.43
+2015-11-01T00:00:00,13016,Clear throughout the day.,45.72,70.38
+2015-11-01T00:00:00,13001,Clear throughout the day.,45.69,70.47
+2015-11-01T00:00:00,13002,Clear throughout the day.,45.7,70.46
+2015-11-01T00:00:00,13003,Clear throughout the day.,45.69,70.45
+2015-11-01T00:00:00,13004,Clear throughout the day.,45.68,70.46
+2015-11-01T00:00:00,13005,Clear throughout the day.,45.69,70.48
+2015-11-01T00:00:00,13006,Clear throughout the day.,45.69,70.48
+2015-11-01T00:00:00,13007,Clear throughout the day.,45.7,70.47
+2015-11-01T00:00:00,13008,Clear throughout the day.,47,69.23
+2015-11-01T00:00:00,13009,Clear throughout the day.,47.06,69.2
+2015-11-01T00:00:00,13500,Clear throughout the day.,45.92,70.72
+2015-11-01T00:00:00,13140,Clear throughout the day.,44.96,70.62
+2015-11-01T00:00:00,13380,Clear throughout the day.,46.85,69.29
+2015-11-01T00:00:00,13110,Clear throughout the day.,46.13,70.9
+2015-11-01T00:00:00,13300,Clear throughout the day.,43.83,70.2
+2015-11-01T00:00:00,13240,Clear throughout the day.,45.68,70.38
+2015-11-01T00:00:00,13150,Clear throughout the day.,45.01,70.47
+2015-11-01T00:00:00,13127,Clear throughout the day.,45.87,70.13
+2015-11-01T00:00:00,13600,Clear throughout the day.,51.42,67.91
+2015-11-01T00:00:00,14600,Clear throughout the day.,46.68,68.63
+2015-11-01T00:00:00,14000,Clear throughout the day.,42.49,69.6
+2015-11-01T00:00:00,14000,Clear throughout the day.,42.21,69.68
+2015-11-01T00:00:00,14000,Clear throughout the day.,42.77,69.53
+2015-11-01T00:00:00,14650,Clear throughout the day.,41.16,69.96
+2015-11-01T00:00:00,14800,Clear throughout the day.,46.83,69.05
+2015-11-01T00:00:00,14160,Clear throughout the day.,45.66,68.86
+2015-11-01T00:00:00,14200,Clear throughout the day.,43.32,69.39
+2015-11-01T00:00:00,14100,Clear throughout the day.,45.43,68.58
+2015-11-01T00:00:00,14120,Clear throughout the day.,43.25,69.41
+2015-11-01T00:00:00,15000,Clear throughout the day.,45.06,64.84
+2015-11-01T00:00:00,16000,Dry throughout the day.,52.8,72.79
+2015-11-01T00:00:00,16000,Dry throughout the day.,52.47,72.78
+2015-11-01T00:00:00,16800,Dry throughout the day.,52.94,72.8
+2015-11-01T00:00:00,16100,Clear throughout the day.,48.66,72.93
+2015-11-01T00:00:00,17000,Clear throughout the day.,52.56,72.34
+2015-11-01T00:00:00,17000,Clear throughout the day.,52.62,72.04
+2015-11-01T00:00:00,17180,Clear throughout the day.,52.62,72.12
+2015-11-01T00:00:00,17300,Clear throughout the day.,52.93,71.69
+2015-11-01T00:00:00,17200,Clear throughout the day.,52.48,71.74
+2015-11-01T00:00:00,17100,Clear throughout the day.,50.24,72.67
+2015-11-01T00:00:00,18000,Foggy in the morning.,42.03,68
+2015-11-01T00:00:00,18100,Foggy in the morning.,38.58,69.37
+2015-11-01T00:00:00,19200,Clear throughout the day.,42.8,68.28
+2015-11-01T00:00:00,19100,Clear throughout the day.,40.97,71.42
+2015-11-01T00:00:00,19000,Clear throughout the day.,43.51,69.79
+2015-11-01T00:00:00,21200,Foggy throughout the day.,40.3,52.21
+2015-11-01T00:00:00,21000,Foggy throughout the day.,39.3,54.03
+2015-11-01T00:00:00,22300,Clear throughout the day.,50.22,70.09
+2015-11-01T00:00:00,22000,Partly cloudy until afternoon.,51.54,68.24
+2015-11-01T00:00:00,23000,Clear throughout the day.,36.39,68.03
+2015-11-01T00:00:00,24100,Mostly cloudy in the morning.,45.74,72.76
+2015-11-01T00:00:00,24000,Clear throughout the day.,47.97,71.99
+2015-11-01T00:00:00,25000,Foggy starting in the evening.,39.4,60.4
+2015-11-01T00:00:00,25200,Foggy throughout the day.,42.02,56.81
+2015-11-01T00:00:00,25300,Foggy overnight.,42.53,57.71
+2015-11-01T00:00:00,26200,Foggy in the morning.,42.08,63.89
+2015-11-01T00:00:00,26100,Foggy in the morning.,43.33,62.88
+2015-11-01T00:00:00,26000,Partly cloudy in the morning.,42.43,64.59
+2015-11-01T00:00:00,27000,Foggy in the morning.,41.67,65.4
+2015-11-01T00:00:00,27000,Foggy in the morning.,41.62,65.45
+2015-11-01T00:00:00,27400,Foggy starting in the evening.,42.7,64.68
+2015-11-01T00:00:00,27100,Foggy starting in the evening.,42.9,64.97
+2015-11-01T00:00:00,27200,Foggy starting in the evening.,42.18,64.8
+2015-11-01T00:00:00,28000,Foggy in the morning.,38.74,67.7
+2015-11-01T00:00:00,28100,Foggy in the morning.,41.96,65.88
+2015-11-01T00:00:00,29200,Partly cloudy in the morning.,51.29,68.3
+2015-11-01T00:00:00,29200,Partly cloudy in the morning.,51.24,68.31
+2015-11-01T00:00:00,29200,Partly cloudy in the morning.,51.22,68.29
+2015-11-01T00:00:00,29200,Partly cloudy in the morning.,51.11,68.29
+2015-11-01T00:00:00,29200,Partly cloudy in the morning.,51.39,68.31
+2015-11-01T00:00:00,29900,Clear throughout the day.,50.92,66.37
+2015-11-01T00:00:00,29600,Clear throughout the day.,53.11,70
+2015-11-01T00:00:00,29600,Clear throughout the day.,53.09,70
+2015-11-01T00:00:00,29000,Clear throughout the day.,50.63,66.25
+2015-11-01T00:00:00,29000,Clear throughout the day.,50.71,66.28
+2015-11-01T00:00:00,29000,Clear throughout the day.,50.68,66.27
+2015-11-01T00:00:00,29000,Clear throughout the day.,50.42,66.17
+2015-11-01T00:00:00,20000,Partly cloudy until evening.,49.2,70.72
+2015-11-01T00:00:00,20200,Partly cloudy until evening.,54.8,64.45
+2015-11-01T00:00:00,30100,Clear throughout the day.,43.74,64.86
+2015-11-01T00:00:00,30200,Foggy in the morning.,42.96,69.99
+2015-11-01T00:00:00,30000,Clear throughout the day.,46.26,70.96
+2015-11-01T00:00:00,30000,Clear throughout the day.,46.47,71.29
+2015-11-01T00:00:00,30000,Clear throughout the day.,46.21,70.88
+2015-11-01T00:00:00,30400,Foggy in the morning.,43.04,69.96
+2015-11-01T00:00:00,31700,Breezy throughout the day.,58.37,70.12
+2015-11-01T00:00:00,31770,Breezy starting in the afternoon.,57.81,70.22
+2015-11-01T00:00:00,31800,Clear throughout the day.,51.45,70.87
+2015-11-01T00:00:00,31000,Breezy starting in the afternoon.,57.44,70.27
+2015-11-01T00:00:00,31000,Breezy starting in the afternoon.,57.48,70.26
+2015-11-01T00:00:00,31000,"Breezy starting in the afternoon, continuing until evening.",57.24,70.31
+2015-11-01T00:00:00,31000,"Breezy starting in the afternoon, continuing until evening.",57.15,70.32
+2015-11-01T00:00:00,31000,Breezy starting in the afternoon.,57.47,70.24
+2015-11-01T00:00:00,31000,Breezy starting in the afternoon.,57.47,70.27
+2015-11-01T00:00:00,31000,Breezy in the afternoon.,56.96,70.36
+2015-11-01T00:00:00,31000,Breezy starting in the afternoon.,57.38,70.28
+2015-11-01T00:00:00,31000,Breezy in the afternoon.,57.14,70.32
+2015-11-01T00:00:00,31170,Breezy starting in the afternoon.,57.56,70.25
+2015-11-01T00:00:00,32000,Mostly cloudy in the morning.,47.53,71.74
+2015-11-01T00:00:00,33120,Clear throughout the day.,50.57,70.1
+2015-11-01T00:00:00,33320,Partly cloudy in the afternoon.,52.74,71.53
+2015-11-01T00:00:00,33000,Partly cloudy in the afternoon.,52.58,71.48
+2015-11-01T00:00:00,33130,Partly cloudy in the afternoon.,52.15,71.33
+2015-11-01T00:00:00,33150,Partly cloudy in the afternoon.,52.07,71.3
+2015-11-01T00:00:00,33110,Partly cloudy in the afternoon.,52.56,71.47
+2015-11-01T00:00:00,33700,Partly cloudy in the afternoon.,53.25,71.72
+2015-11-01T00:00:00,33600,Partly cloudy in the afternoon.,52.91,71.6
+2015-11-01T00:00:00,33400,Partly cloudy in the afternoon.,52.55,71.47
+2015-11-01T00:00:00,34300,Clear throughout the day.,50.3,68.64
+2015-11-01T00:00:00,34500,Clear throughout the day.,50.02,68.91
+2015-11-01T00:00:00,34500,Clear throughout the day.,50.03,68.91
+2015-11-01T00:00:00,34110,Clear throughout the day.,52.04,67.24
+2015-11-01T00:00:00,34970,Clear throughout the day.,48.95,69.42
+2015-11-01T00:00:00,34000,Clear throughout the day.,49.01,69.37
+2015-11-01T00:00:00,34000,Clear throughout the day.,49.3,69.21
+2015-11-01T00:00:00,34000,Clear throughout the day.,49.68,68.82
+2015-11-01T00:00:00,34200,Clear throughout the day.,54.13,66.36
+2015-11-01T00:00:00,35300,Clear throughout the day.,45.74,68.61
+2015-11-01T00:00:00,35000,Foggy in the morning.,45.64,68.23
+2015-11-01T00:00:00,35400,Partly cloudy until afternoon.,48.99,69.01
+2015-11-01T00:00:00,36000,Clear throughout the day.,38.25,68.31
+2015-11-01T00:00:00,37300,Clear throughout the day.,43.1,70.25
+2015-11-01T00:00:00,37000,Clear throughout the day.,43.85,70.18
+2015-11-01T00:00:00,38130,Partly cloudy until afternoon.,41.55,60.7
+2015-11-01T00:00:00,38300,Partly cloudy in the morning.,43.96,62.92
+2015-11-01T00:00:00,38600,Partly cloudy until afternoon.,41.63,60.78
+2015-11-01T00:00:00,38000,Partly cloudy until afternoon.,41.44,60.62
+2015-11-01T00:00:00,38000,Partly cloudy until afternoon.,41.49,60.63
+2015-11-01T00:00:00,38400,Partly cloudy until afternoon.,41.39,60.63
+2015-11-01T00:00:00,38200,Clear throughout the day.,42.15,63.87
+2015-11-01T00:00:00,38500,Partly cloudy until afternoon.,42.75,61.69
+2015-11-01T00:00:00,39100,Foggy throughout the day.,39.35,51.94
+2015-11-01T00:00:00,39000,Foggy throughout the day.,42.84,51.81
+2015-11-01T00:00:00,40100,Partly cloudy until evening.,50.35,71.85
+2015-11-01T00:00:00,40000,Clear throughout the day.,46.76,71.97
+2015-11-01T00:00:00,41000,Foggy in the morning.,40.08,69.38
+2015-11-01T00:00:00,41000,Foggy in the morning.,40.24,69.34
+2015-11-01T00:00:00,41100,Clear throughout the day.,41.41,69.17
+2015-11-01T00:00:00,41350,Foggy in the morning.,39.91,69.43
+2015-11-01T00:00:00,42300,Clear throughout the day.,38.9,62.11
+2015-11-01T00:00:00,42000,Clear throughout the day.,39.08,64.01
+2015-11-01T00:00:00,42700,Clear throughout the day.,38.78,64.02
+2015-11-01T00:00:00,42800,Clear throughout the day.,41.23,63.98
+2015-11-01T00:00:00,43000,Partly cloudy in the morning.,35.47,64.21
+2015-11-01T00:00:00,44000,Clear throughout the day.,47.93,71.44
+2015-11-01T00:00:00,44700,Clear throughout the day.,47.91,71.35
+2015-11-01T00:00:00,44400,Clear throughout the day.,47.98,71.63
+2015-11-01T00:00:00,44600,Clear throughout the day.,49.47,69.67
+2015-11-01T00:00:00,44800,Clear throughout the day.,49.09,71.25
+2015-11-01T00:00:00,44500,Clear throughout the day.,50.23,69.24
+2015-11-01T00:00:00,45160,Foggy in the morning.,39.51,68.58
+2015-11-01T00:00:00,45000,Foggy in the morning.,39.72,68.49
+2015-11-01T00:00:00,45000,Foggy in the morning.,39.62,68.52
+2015-11-01T00:00:00,45000,Foggy in the morning.,39.24,68.71
+2015-11-01T00:00:00,45400,Foggy in the morning.,39.78,68.45
+2015-11-01T00:00:00,45200,Foggy in the morning.,43.09,65.82
+2015-11-01T00:00:00,45800,Foggy in the morning.,39.49,68.58
+2015-11-01T00:00:00,45140,Foggy in the morning.,39.78,68.47
+2015-11-01T00:00:00,46000,Mostly cloudy in the morning.,48.88,71.43
+2015-11-01T00:00:00,47000,Mostly cloudy in the morning and breezy in the afternoon.,46.68,71.95
+2015-11-01T00:00:00,47300,Mostly cloudy in the morning.,48.94,71.91
+2015-11-01T00:00:00,48000,Clear throughout the day.,39.89,62.12
+2015-11-01T00:00:00,49000,Clear throughout the day.,41.42,70.79
+2015-11-01T00:00:00,49000,Clear throughout the day.,41.52,70.78
+2015-11-01T00:00:00,49000,Clear throughout the day.,40.87,70.87
+2015-11-01T00:00:00,49000,Clear throughout the day.,41.83,70.72
+2015-11-01T00:00:00,49300,Clear throughout the day.,45.81,71.1
+2015-11-01T00:00:00,49300,Clear throughout the day.,45.9,71.1
+2015-11-01T00:00:00,49400,Clear throughout the day.,42.11,70.53
+2015-11-01T00:00:00,50100,Clear throughout the day.,50.67,66.32
+2015-11-01T00:00:00,50200,Partly cloudy until afternoon.,50,63
+2015-11-01T00:00:00,50400,Partly cloudy until afternoon.,49.69,67.05
+2015-11-01T00:00:00,50000,Clear throughout the day.,44.8,69.15
+2015-11-01T00:00:00,51200,Foggy in the morning.,36.21,62.8
+2015-11-01T00:00:00,51000,Foggy in the morning.,36.35,62.81
+2015-11-01T00:00:00,51100,Foggy starting in the evening.,37.29,61.17
+2015-11-01T00:00:00,51450,Foggy starting in the evening.,37.37,61.1
+2015-11-01T00:00:00,51100,Foggy starting in the evening.,37.11,61.37
+2015-11-01T00:00:00,51100,Foggy starting in the evening.,37.25,61.21
+2015-11-01T00:00:00,51100,Foggy starting in the evening.,37.26,61.22
+2015-11-01T00:00:00,51100,Foggy starting in the evening.,37.38,61.08
+2015-11-01T00:00:00,51430,Foggy starting in the evening.,37.28,61.17
+2015-11-01T00:00:00,52000,Foggy overnight.,39.8,59.62
+2015-11-01T00:00:00,52100,Overcast starting in the evening.,40.63,66.23
+2015-11-01T00:00:00,53000,Foggy in the morning.,42.84,68.49
+2015-11-01T00:00:00,54150,Foggy throughout the day.,42.74,52.9
+2015-11-01T00:00:00,54800,Foggy throughout the day.,42.87,53.39
+2015-11-01T00:00:00,54110,Foggy throughout the day.,39.71,50.39
+2015-11-01T00:00:00,54520,Foggy throughout the day.,39.83,50.61
+2015-11-01T00:00:00,54400,Foggy overnight.,41.67,55.63
+2015-11-01T00:00:00,54300,Foggy throughout the day.,40.35,50.44
+2015-11-01T00:00:00,54000,Foggy throughout the day.,37.64,47.45
+2015-11-01T00:00:00,54000,Foggy throughout the day.,38.82,49.16
+2015-11-01T00:00:00,54700,Foggy throughout the day.,43.04,54.7
+2015-11-01T00:00:00,54130,Foggy throughout the day.,37.63,47.44
+2015-11-01T00:00:00,54200,Foggy throughout the day.,42.44,55.2
+2015-11-01T00:00:00,54500,Foggy throughout the day.,39.02,49.36
+2015-11-01T00:00:00,54190,Foggy overnight.,41.93,54.19
+2015-11-01T00:00:00,55000,Foggy in the morning.,40.48,63.09
+2015-11-01T00:00:00,55000,Foggy in the morning.,40.5,63.01
+2015-11-01T00:00:00,55100,Foggy in the morning.,42.72,57.83
+2015-11-01T00:00:00,56100,Clear throughout the day.,51.04,65.79
+2015-11-01T00:00:00,56000,Clear throughout the day.,52.95,66.86
+2015-11-01T00:00:00,57190,Foggy throughout the day.,42.6,52.2
+2015-11-01T00:00:00,57600,Foggy throughout the day.,38.18,49.25
+2015-11-01T00:00:00,57800,Foggy throughout the day.,38.26,48.83
+2015-11-01T00:00:00,57300,Foggy throughout the day.,42.32,52.14
+2015-11-01T00:00:00,57700,Foggy throughout the day.,42.68,52.37
+2015-11-01T00:00:00,57000,Foggy throughout the day.,40.98,50.73
+2015-11-01T00:00:00,57000,Foggy throughout the day.,40.77,50.56
+2015-11-01T00:00:00,57000,Foggy throughout the day.,40.75,50.44
+2015-11-01T00:00:00,57950,Foggy throughout the day.,40.88,50.73
+2015-11-01T00:00:00,57250,Foggy throughout the day.,42.53,52.53
+2015-11-01T00:00:00,57120,Foggy throughout the day.,42.43,52.36
+2015-11-01T00:00:00,57500,Foggy throughout the day.,41.04,51.29
+2015-11-01T00:00:00,57400,Foggy throughout the day.,37.31,45.56
+2015-11-01T00:00:00,57200,Foggy throughout the day.,36.98,49.06
+2015-11-01T00:00:00,57100,Foggy throughout the day.,42.65,51.99
+2015-11-01T00:00:00,57140,Foggy throughout the day.,41.16,50.88
+2015-11-01T00:00:00,57970,Foggy throughout the day.,42.59,51.99
+2015-11-01T00:00:00,58000,Foggy in the morning.,38.16,67.73
+2015-11-01T00:00:00,59580,Foggy in the morning.,40.58,62.86
+2015-11-01T00:00:00,59410,Foggy in the morning.,40.27,63.79
+2015-11-01T00:00:00,59280,Foggy overnight.,40.39,62.55
+2015-11-01T00:00:00,59124,Foggy in the morning.,40.53,62.94
+2015-11-01T00:00:00,59190,Foggy starting in the evening.,39.97,61.67
+2015-11-01T00:00:00,59264,Foggy in the morning.,40.19,63.84
+2015-11-01T00:00:00,59270,Foggy overnight.,40.1,61.87
+2015-11-01T00:00:00,59400,Foggy in the morning.,40.66,62.25
+2015-11-01T00:00:00,59163,Foggy in the morning.,40.09,63.79
+2015-11-01T00:00:00,59170,Foggy in the morning.,40.66,63.21
+2015-11-01T00:00:00,59220,Foggy in the morning.,40.5,62.95
+2015-11-01T00:00:00,59500,Foggy overnight.,40.55,62.52
+2015-11-01T00:00:00,59282,Foggy in the morning.,40.52,62.88
+2015-11-01T00:00:00,59140,Partly cloudy overnight.,41.69,59.79
+2015-11-01T00:00:00,59820,Partly cloudy throughout the day.,43.92,60.18
+2015-11-01T00:00:00,59510,Foggy in the morning.,40.62,63.26
+2015-11-01T00:00:00,59110,Foggy in the morning.,40.71,63.35
+2015-11-01T00:00:00,59000,Foggy in the morning.,40.76,63.52
+2015-11-01T00:00:00,59000,Foggy in the morning.,40.7,63.15
+2015-11-01T00:00:00,59156,Foggy in the morning.,40.53,62.88
+2015-11-01T00:00:00,59700,Foggy in the morning.,40.7,63.25
+2015-11-01T00:00:00,59770,Foggy in the morning.,40.54,63.01
+2015-11-01T00:00:00,59600,Clear throughout the day.,41.29,64.34
+2015-11-01T00:00:00,59590,Foggy in the morning.,40.26,63.78
+2015-11-01T00:00:00,59100,Foggy in the morning.,40.63,63.14
+2015-11-01T00:00:00,59100,Foggy in the morning.,40.65,63.11
+2015-11-01T00:00:00,59100,Foggy in the morning.,40.63,63.17
+2015-11-01T00:00:00,59230,Foggy overnight.,40.56,63.73
+2015-11-01T00:00:00,59490,Foggy overnight.,40.56,62.97
+2015-11-01T00:00:00,59200,Foggy in the morning.,40.7,63.03
+2015-11-01T00:00:00,59300,Foggy in the morning.,40.4,63.54
+2015-11-01T00:00:00,59650,Foggy in the morning.,40.73,63.51
+2015-11-01T00:00:00,59135,Foggy overnight.,40.62,63.05
+2015-11-01T00:00:00,59290,Foggy in the morning.,40.68,63.25
+2015-11-01T00:00:00,59139,Foggy overnight.,40.8,63.63
+2015-11-01T00:00:00,59150,Foggy in the morning.,40.6,63.09
+2015-11-01T00:00:00,60000,Foggy until afternoon.,39.74,61.91
+2015-11-01T00:00:00,60200,Foggy overnight.,40.94,62.86
+2015-11-01T00:00:00,60100,Foggy starting in the evening.,38.62,63.73
+2015-11-01T00:00:00,61000,Foggy in the morning.,40.08,69
+2015-11-01T00:00:00,61200,Clear throughout the day.,43.28,68.51
+2015-11-01T00:00:00,61100,Clear throughout the day.,41.99,69.17
+2015-11-01T00:00:00,62220,Foggy overnight.,40.3,62.94
+2015-11-01T00:00:00,62110,Foggy overnight.,40.63,62.61
+2015-11-01T00:00:00,62800,Foggy in the morning.,40.63,62.12
+2015-11-01T00:00:00,62217,Foggy in the morning.,41.58,62.02
+2015-11-01T00:00:00,62000,Foggy in the morning.,41.59,62.08
+2015-11-01T00:00:00,62000,Foggy in the morning.,41.6,62.08
+2015-11-01T00:00:00,62260,Foggy in the morning.,42.12,62.9
+2015-11-01T00:00:00,62138,Foggy overnight.,40.14,62.65
+2015-11-01T00:00:00,62210,Foggy in the morning.,40.64,62.43
+2015-11-01T00:00:00,62230,Partly cloudy in the morning.,48.13,64.03
+2015-11-01T00:00:00,62620,Foggy in the morning.,41.05,62.41
+2015-11-01T00:00:00,62600,Foggy in the morning.,44.41,64.13
+2015-11-01T00:00:00,62200,Partly cloudy in the morning.,48.55,64.48
+2015-11-01T00:00:00,62200,Partly cloudy in the morning.,48.83,64.8
+2015-11-01T00:00:00,62700,Foggy in the morning.,42.05,62.86
+2015-11-01T00:00:00,62400,Foggy in the morning.,40.52,61.99
+2015-11-01T00:00:00,62100,Mostly cloudy in the morning.,44.94,59.66
+2015-11-01T00:00:00,62300,Foggy in the morning.,40.65,62.49
+2015-11-01T00:00:00,62540,Foggy in the morning.,42.08,62.89
+2015-11-01T00:00:00,62290,Foggy in the morning.,41,62.46
+2015-11-01T00:00:00,62500,Partly cloudy throughout the day.,44.61,60.69
+2015-11-01T00:00:00,62223,Foggy in the morning.,41.58,62.09
+2015-11-01T00:00:00,62520,Foggy in the morning.,43.35,65.35
+2015-11-01T00:00:00,63400,Clear throughout the day.,42.39,67.38
+2015-11-01T00:00:00,63000,Clear throughout the day.,43.2,67.57
+2015-11-01T00:00:00,63000,Clear throughout the day.,42.69,67.44
+2015-11-01T00:00:00,63000,Clear throughout the day.,42.83,67.47
+2015-11-01T00:00:00,63800,Clear throughout the day.,43.16,67.42
+2015-11-01T00:00:00,63360,Clear throughout the day.,43.11,67.27
+2015-11-01T00:00:00,63200,Clear throughout the day.,41.48,66.95
+2015-11-01T00:00:00,64700,Partly cloudy in the afternoon.,54.76,72.64
+2015-11-01T00:00:00,64100,Partly cloudy in the afternoon.,53.85,71.96
+2015-11-01T00:00:00,64200,Partly cloudy in the afternoon.,53.6,72.32
+2015-11-01T00:00:00,64000,Partly cloudy until evening.,48.68,72
+2015-11-01T00:00:00,64500,Partly cloudy in the afternoon.,57.7,73.15
+2015-11-01T00:00:00,65100,Partly cloudy until evening.,47.66,71.84
+2015-11-01T00:00:00,65000,Partly cloudy until evening.,48.41,71.7
+2015-11-01T00:00:00,66000,Mostly cloudy starting in the afternoon.,51.96,67.24
+2015-11-01T00:00:00,66000,Mostly cloudy starting in the afternoon.,52.33,67.09
+2015-11-01T00:00:00,66000,Mostly cloudy starting in the afternoon.,51.7,67.33
+2015-11-01T00:00:00,66000,Mostly cloudy starting in the afternoon.,52.06,67.19
+2015-11-01T00:00:00,67540,Foggy throughout the day.,36.95,46.29
+2015-11-01T00:00:00,67800,Foggy throughout the day.,36.91,46.44
+2015-11-01T00:00:00,67500,Foggy throughout the day.,36.78,47.33
+2015-11-01T00:00:00,67800,Foggy throughout the day.,36.9,46.46
+2015-11-01T00:00:00,67400,Foggy throughout the day.,36.95,46.3
+2015-11-01T00:00:00,67380,Foggy throughout the day.,36.96,46.23
+2015-11-01T00:00:00,67300,Foggy throughout the day.,36.91,46.42
+2015-11-01T00:00:00,67600,Foggy throughout the day.,40.28,49.17
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.93,46.38
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.93,46.39
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.94,46.34
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.94,46.33
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.93,46.38
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.92,46.4
+2015-11-01T00:00:00,67100,Foggy throughout the day.,36.92,46.41
+2015-11-01T00:00:00,68000,Foggy throughout the day.,40.12,50.69
+2015-11-01T00:00:00,68100,Foggy starting in the evening.,39.92,53.53
+2015-11-01T00:00:00,68100,Foggy in the morning.,40,53.5
+2015-11-01T00:00:00,68100,Foggy in the morning.,39.95,53.51
+2015-11-01T00:00:00,68100,Foggy starting in the evening.,39.81,53.57
+2015-11-01T00:00:00,68300,Foggy starting in the afternoon.,38.37,54.37
+2015-11-01T00:00:00,68270,Foggy in the morning.,40.12,53.49
+2015-11-01T00:00:00,69130,Foggy starting in the evening.,41.41,63.82
+2015-11-01T00:00:00,69600,Foggy starting in the evening.,41.76,63.81
+2015-11-01T00:00:00,69500,Foggy starting in the evening.,42.56,63.86
+2015-11-01T00:00:00,69300,Foggy starting in the evening.,41.67,63.77
+2015-11-01T00:00:00,69700,Foggy overnight.,41.88,63.91
+2015-11-01T00:00:00,69001,Foggy starting in the evening.,41.79,63.79
+2015-11-01T00:00:00,69002,Foggy starting in the evening.,41.82,63.8
+2015-11-01T00:00:00,69003,Foggy starting in the evening.,41.9,63.79
+2015-11-01T00:00:00,69004,Foggy starting in the evening.,41.72,63.79
+2015-11-01T00:00:00,69005,Foggy starting in the evening.,41.7,63.8
+2015-11-01T00:00:00,69007,Foggy starting in the evening.,41.91,63.8
+2015-11-01T00:00:00,69008,Foggy starting in the evening.,42.2,63.81
+2015-11-01T00:00:00,69009,Foggy starting in the evening.,41.53,63.81
+2015-11-01T00:00:00,69330,Foggy starting in the evening.,42.58,63.55
+2015-11-01T00:00:00,69140,Foggy starting in the evening.,42.34,62.42
+2015-11-01T00:00:00,69800,Foggy starting in the evening.,42.67,63.84
+2015-11-01T00:00:00,69120,Foggy starting in the evening.,42.1,63.73
+2015-11-01T00:00:00,69400,Foggy starting in the evening.,41.82,60.91
+2015-11-01T00:00:00,69100,Foggy starting in the evening.,42.04,63.77
+2015-11-01T00:00:00,69200,Foggy starting in the evening.,42.3,63.82
+2015-11-01T00:00:00,70400,Foggy throughout the day.,41.92,55.94
+2015-11-01T00:00:00,70000,Foggy overnight.,41.2,58.74
+2015-11-01T00:00:00,71100,Foggy throughout the day.,40.38,52.06
+2015-11-01T00:00:00,71200,Foggy throughout the day.,40.15,53.11
+2015-11-01T00:00:00,71000,Foggy throughout the day.,42.36,51.28
+2015-11-01T00:00:00,71300,Foggy throughout the day.,39.86,56.06
+2015-11-01T00:00:00,72700,Clear throughout the day.,41.4,71.27
+2015-11-01T00:00:00,72190,Clear throughout the day.,41.58,70.9
+2015-11-01T00:00:00,72000,Clear throughout the day.,41.47,71.15
+2015-11-01T00:00:00,72000,Clear throughout the day.,41.46,71.18
+2015-11-01T00:00:00,72000,Clear throughout the day.,41.4,71.28
+2015-11-01T00:00:00,73100,Mostly cloudy until afternoon.,39.75,59.13
+2015-11-01T00:00:00,73200,Mostly cloudy in the morning.,44.61,63.07
+2015-11-01T00:00:00,73000,Mostly cloudy until afternoon.,40.06,59.37
+2015-11-01T00:00:00,74000,Overcast in the morning.,39.56,56.62
+2015-11-01T00:00:00,74100,Foggy overnight.,41.6,53.99
+2015-11-01T00:00:00,74960,Overcast in the morning.,39.4,56.72
+2015-11-01T00:00:00,74200,Foggy overnight.,41.16,52.67
+2015-11-01T00:00:00,75010,Foggy in the morning.,44.74,65.41
+2015-11-01T00:00:00,75011,Foggy in the morning.,44.92,65.57
+2015-11-01T00:00:00,75012,Foggy in the morning.,45.01,65.66
+2015-11-01T00:00:00,75013,Foggy in the morning.,45.58,66.07
+2015-11-01T00:00:00,75014,Foggy in the morning.,45.57,66.37
+2015-11-01T00:00:00,75015,Foggy in the morning.,45.21,66.23
+2015-11-01T00:00:00,75016,Foggy in the morning.,44.72,66.05
+2015-11-01T00:00:00,75017,Foggy in the morning.,44.71,65.38
+2015-11-01T00:00:00,75018,Foggy in the morning.,44.6,65.28
+2015-11-01T00:00:00,75019,Foggy in the morning.,44.52,65.21
+2015-11-01T00:00:00,75001,Foggy in the morning.,44.99,65.62
+2015-11-01T00:00:00,75020,Foggy in the morning.,44.66,65.35
+2015-11-01T00:00:00,75002,Foggy in the morning.,44.88,65.53
+2015-11-01T00:00:00,75003,Foggy in the morning.,44.95,65.59
+2015-11-01T00:00:00,75004,Foggy in the morning.,45.06,65.68
+2015-11-01T00:00:00,75005,Foggy in the morning.,45.31,65.87
+2015-11-01T00:00:00,75006,Foggy in the morning.,45.27,65.84
+2015-11-01T00:00:00,75007,Foggy in the morning.,45.02,65.66
+2015-11-01T00:00:00,75008,Foggy in the morning.,44.94,65.59
+2015-11-01T00:00:00,75009,Foggy in the morning.,44.83,65.48
+2015-11-01T00:00:00,76500,Foggy in the morning.,43.78,65.8
+2015-11-01T00:00:00,76700,Clear throughout the day.,46.26,68.17
+2015-11-01T00:00:00,76230,Foggy overnight.,43.5,65.51
+2015-11-01T00:00:00,76210,Clear throughout the day.,45.83,67.67
+2015-11-01T00:00:00,76380,Foggy in the morning.,44.1,66.06
+2015-11-01T00:00:00,76160,Foggy overnight.,43.38,65.6
+2015-11-01T00:00:00,76200,Foggy in the morning.,43.99,67.59
+2015-11-01T00:00:00,76400,Clear throughout the day.,45.69,67.61
+2015-11-01T00:00:00,76530,Foggy in the morning.,43.72,65.91
+2015-11-01T00:00:00,76120,Foggy in the morning.,43.96,66.03
+2015-11-01T00:00:00,76600,Clear throughout the day.,46.16,67.97
+2015-11-01T00:00:00,76600,Foggy in the morning.,46.1,67.91
+2015-11-01T00:00:00,76600,Clear throughout the day.,46.2,68.04
+2015-11-01T00:00:00,76600,Clear throughout the day.,46.21,68.06
+2015-11-01T00:00:00,76600,Foggy in the morning.,46.09,67.67
+2015-11-01T00:00:00,76140,Foggy in the morning.,43.95,66.03
+2015-11-01T00:00:00,76170,Clear throughout the day.,45.76,67.62
+2015-11-01T00:00:00,76150,Foggy in the morning.,44.17,66.07
+2015-11-01T00:00:00,76290,Clear throughout the day.,46.17,68.01
+2015-11-01T00:00:00,76350,Foggy overnight.,43.49,65.87
+2015-11-01T00:00:00,76000,Foggy in the morning.,43.89,66.02
+2015-11-01T00:00:00,76000,Foggy overnight.,43.49,65.55
+2015-11-01T00:00:00,76000,Foggy overnight.,43.47,65.53
+2015-11-01T00:00:00,76800,Foggy overnight.,43.4,65.92
+2015-11-01T00:00:00,76300,Foggy overnight.,43.5,65.94
+2015-11-01T00:00:00,77170,Foggy in the morning.,43.11,64.86
+2015-11-01T00:00:00,77420,Foggy in the morning.,43.88,65.02
+2015-11-01T00:00:00,77500,Foggy in the morning.,43.94,65.02
+2015-11-01T00:00:00,77700,Foggy in the morning.,43.82,64.99
+2015-11-01T00:00:00,77380,Foggy in the morning.,43.11,64.9
+2015-11-01T00:00:00,77120,Foggy in the morning.,43.74,64.94
+2015-11-01T00:00:00,77190,Foggy in the morning.,42.88,64.76
+2015-11-01T00:00:00,77300,Foggy in the morning.,43.35,65.3
+2015-11-01T00:00:00,77400,Foggy in the morning.,43.88,65.02
+2015-11-01T00:00:00,77040,Foggy in the morning.,43.83,65.01
+2015-11-01T00:00:00,77100,Foggy in the morning.,43.09,64.53
+2015-11-01T00:00:00,77000,Foggy in the morning.,42.61,64.64
+2015-11-01T00:00:00,77350,Foggy in the morning.,42.74,64.7
+2015-11-01T00:00:00,77550,Foggy in the morning.,42.86,64.79
+2015-11-01T00:00:00,77130,Foggy in the morning.,43.29,64.87
+2015-11-01T00:00:00,77130,Foggy in the morning.,43.31,64.87
+2015-11-01T00:00:00,77250,Foggy in the morning.,43.28,64.87
+2015-11-01T00:00:00,77140,Foggy in the morning.,43.13,65.54
+2015-11-01T00:00:00,77186,Foggy in the morning.,43.86,65.02
+2015-11-01T00:00:00,77330,Foggy in the morning.,43.61,64.92
+2015-11-01T00:00:00,77680,Foggy in the morning.,43.69,64.97
+2015-11-01T00:00:00,77340,Foggy in the morning.,43.73,65.01
+2015-11-01T00:00:00,77160,Foggy in the morning.,38.36,63.26
+2015-11-01T00:00:00,77176,Foggy in the morning.,42.74,64.73
+2015-11-01T00:00:00,77200,Foggy in the morning.,43.85,65.01
+2015-11-01T00:00:00,77270,Foggy in the morning.,43.44,65
+2015-11-01T00:00:00,78990,Foggy in the morning.,43.48,67.31
+2015-11-01T00:00:00,78700,Foggy in the morning.,42.16,64.96
+2015-11-01T00:00:00,78330,Foggy in the morning.,43.84,66.92
+2015-11-01T00:00:00,78280,Foggy in the morning.,43.72,67.06
+2015-11-01T00:00:00,78800,Foggy in the morning.,43.98,66.2
+2015-11-01T00:00:00,78170,Foggy in the morning.,44.18,66.15
+2015-11-01T00:00:00,78600,Foggy in the morning.,43.08,64.98
+2015-11-01T00:00:00,78200,Foggy in the morning.,42.28,65.63
+2015-11-01T00:00:00,78160,Foggy in the morning.,43.86,66.38
+2015-11-01T00:00:00,78370,Foggy in the morning.,43.69,66.91
+2015-11-01T00:00:00,78300,Foggy in the morning.,43.15,65.98
+2015-11-01T00:00:00,78120,Foggy in the morning.,42.91,66.7
+2015-11-01T00:00:00,78100,Foggy in the morning.,43.57,66.19
+2015-11-01T00:00:00,78500,Foggy in the morning.,43.24,65.06
+2015-11-01T00:00:00,78190,Foggy in the morning.,43.27,67.63
+2015-11-01T00:00:00,78140,Foggy in the morning.,44.54,66.07
+2015-11-01T00:00:00,78000,Foggy in the morning.,44.22,66.22
+2015-11-01T00:00:00,78130,Foggy in the morning.,42.33,65.36
+2015-11-01T00:00:00,78110,Foggy in the morning.,44.12,66.38
+2015-11-01T00:00:00,79000,Clear throughout the day.,46.01,72.69
+2015-11-01T00:00:00,79100,Clear throughout the day.,42.72,70.76
+2015-11-01T00:00:00,80100,Foggy in the morning.,44.05,63.52
+2015-11-01T00:00:00,80000,Foggy in the morning.,41.15,61.56
+2015-11-01T00:00:00,80000,Foggy in the morning.,41.13,61.54
+2015-11-01T00:00:00,80000,Foggy in the morning.,41.08,61.51
+2015-11-01T00:00:00,80000,Foggy in the morning.,41.18,61.56
+2015-11-01T00:00:00,80000,Foggy in the morning.,41.25,61.61
+2015-11-01T00:00:00,80480,Foggy in the morning.,41.16,61.6
+2015-11-01T00:00:00,81000,Clear throughout the day.,45.6,71.19
+2015-11-01T00:00:00,81400,Clear throughout the day.,48.69,69.47
+2015-11-01T00:00:00,81100,Mostly cloudy in the morning.,52.77,70.28
+2015-11-01T00:00:00,81200,Mostly cloudy in the morning.,50.82,69.94
+2015-11-01T00:00:00,82100,Mostly cloudy in the morning.,52.69,71.03
+2015-11-01T00:00:00,82000,Mostly cloudy in the morning.,52.23,70.98
+2015-11-01T00:00:00,83400,Clear throughout the day.,50.72,68.41
+2015-11-01T00:00:00,83300,Breezy overnight.,41.9,69.29
+2015-11-01T00:00:00,83600,Windy overnight.,44.39,70.39
+2015-11-01T00:00:00,83500,Clear throughout the day.,52.91,69.01
+2015-11-01T00:00:00,83110,Clear throughout the day.,52.84,68.87
+2015-11-01T00:00:00,83000,Clear throughout the day.,52.91,69.36
+2015-11-01T00:00:00,84000,Foggy in the morning.,42.93,69.97
+2015-11-01T00:00:00,84000,Foggy in the morning.,42.25,69.96
+2015-11-01T00:00:00,84100,Foggy in the morning.,41.73,69.95
+2015-11-01T00:00:00,84200,Foggy in the morning.,42.4,69.27
+2015-11-01T00:00:00,84300,Clear throughout the day.,43.37,69.77
+2015-11-01T00:00:00,84170,Foggy in the morning.,42.58,69.46
+2015-11-01T00:00:00,85000,Clear throughout the day.,48.71,70.39
+2015-11-01T00:00:00,85100,Clear throughout the day.,53.29,69.89
+2015-11-01T00:00:00,86100,Clear throughout the day.,41.04,70.39
+2015-11-01T00:00:00,86000,Clear throughout the day.,41.99,70.2
+2015-11-01T00:00:00,87000,Clear throughout the day.,49.82,70.14
+2015-11-01T00:00:00,88000,Foggy throughout the day.,40.56,54.25
+2015-11-01T00:00:00,88200,Foggy throughout the day.,39.25,53.93
+2015-11-01T00:00:00,88100,Foggy throughout the day.,38.72,50.56
+2015-11-01T00:00:00,89000,Foggy in the morning.,39.68,65.93
+2015-11-01T00:00:00,89100,Foggy in the morning.,38.16,63.24
+2015-11-01T00:00:00,90000,Foggy throughout the day.,41.94,53.96
+2015-11-01T00:00:00,91290,Foggy in the morning.,43.65,65.71
+2015-11-01T00:00:00,91200,Foggy in the morning.,41.71,65.9
+2015-11-01T00:00:00,91150,Foggy in the morning.,43.69,65.77
+2015-11-01T00:00:00,91000,Foggy in the morning.,43.3,65.51
+2015-11-01T00:00:00,91800,Foggy in the morning.,43.28,65.18
+2015-11-01T00:00:00,91100,Foggy in the morning.,43.36,65.4
+2015-11-01T00:00:00,91210,Foggy in the morning.,42.68,65.73
+2015-11-01T00:00:00,91260,Foggy in the morning.,42.48,65.79
+2015-11-01T00:00:00,91940,Foggy in the morning.,43.95,66.01
+2015-11-01T00:00:00,91160,Foggy in the morning.,43.47,65.75
+2015-11-01T00:00:00,91300,Foggy in the morning.,43.97,65.74
+2015-11-01T00:00:00,91230,Foggy in the morning.,43.06,65.34
+2015-11-01T00:00:00,91120,Foggy in the morning.,43.95,65.78
+2015-11-01T00:00:00,91700,Foggy in the morning.,43.38,65.66
+2015-11-01T00:00:00,91600,Foggy in the morning.,42.96,65.76
+2015-11-01T00:00:00,92160,Foggy in the morning.,44.23,65.81
+2015-11-01T00:00:00,92600,Foggy in the morning.,44.54,65.24
+2015-11-01T00:00:00,92220,Foggy in the morning.,45.08,66.18
+2015-11-01T00:00:00,92100,Foggy in the morning.,44.63,66.07
+2015-11-01T00:00:00,92290,Foggy in the morning.,44.4,65.91
+2015-11-01T00:00:00,92140,Foggy in the morning.,44.74,66.08
+2015-11-01T00:00:00,92110,Foggy in the morning.,44.54,65.24
+2015-11-01T00:00:00,92700,Foggy in the morning.,44.48,65.38
+2015-11-01T00:00:00,92400,Foggy in the morning.,44.35,65.88
+2015-11-01T00:00:00,92230,Foggy in the morning.,44.42,65.18
+2015-11-01T00:00:00,92130,Foggy in the morning.,44.91,66.14
+2015-11-01T00:00:00,92800,Foggy in the morning.,44.36,65.91
+2015-11-01T00:00:00,92250,Foggy in the morning.,44.27,65.85
+2015-11-01T00:00:00,92300,Foggy in the morning.,44.64,65.34
+2015-11-01T00:00:00,92190,Foggy in the morning.,44.63,66.06
+2015-11-01T00:00:00,92120,Foggy in the morning.,45.73,66.52
+2015-11-01T00:00:00,92000,Foggy in the morning.,44.27,65.95
+2015-11-01T00:00:00,92200,Foggy in the morning.,44.41,65.9
+2015-11-01T00:00:00,92800,Foggy in the morning.,44.38,65.94
+2015-11-01T00:00:00,92500,Foggy in the morning.,44.26,66.03
+2015-11-01T00:00:00,92210,Foggy in the morning.,44.49,66.05
+2015-11-01T00:00:00,92150,Foggy in the morning.,44.42,65.99
+2015-11-01T00:00:00,92310,Foggy in the morning.,44.49,66.07
+2015-11-01T00:00:00,92170,Foggy in the morning.,45.17,66.23
+2015-11-01T00:00:00,92390,Foggy in the morning.,44.28,65.08
+2015-11-01T00:00:00,93300,Foggy in the morning.,44.22,65.02
+2015-11-01T00:00:00,93600,Foggy in the morning.,44.09,65.06
+2015-11-01T00:00:00,93000,Foggy in the morning.,44.12,65.02
+2015-11-01T00:00:00,93140,Foggy in the morning.,44.17,65.11
+2015-11-01T00:00:00,93390,Foggy in the morning.,44.2,65.21
+2015-11-01T00:00:00,93700,Foggy in the morning.,44.02,64.93
+2015-11-01T00:00:00,93800,Foggy in the morning.,44.27,65.03
+2015-11-01T00:00:00,93220,Foggy in the morning.,44.21,65.22
+2015-11-01T00:00:00,93120,Foggy in the morning.,44.07,64.92
+2015-11-01T00:00:00,93190,Foggy in the morning.,44.18,65.18
+2015-11-01T00:00:00,93100,Foggy in the morning.,44.43,65.21
+2015-11-01T00:00:00,93330,Foggy in the morning.,44.23,65.27
+2015-11-01T00:00:00,93160,Foggy in the morning.,44.2,65.3
+2015-11-01T00:00:00,93130,Foggy in the morning.,44.26,65.13
+2015-11-01T00:00:00,93500,Foggy in the morning.,44.35,65.1
+2015-11-01T00:00:00,93110,Foggy in the morning.,44.26,65.19
+2015-11-01T00:00:00,93200,Foggy in the morning.,44.14,64.99
+2015-11-01T00:00:00,93400,Foggy in the morning.,44.46,65.14
+2015-11-01T00:00:00,93240,Foggy in the morning.,43.85,64.78
+2015-11-01T00:00:00,93420,Foggy in the morning.,43.62,65.03
+2015-11-01T00:00:00,93200,Foggy in the morning.,44.3,65.07
+2015-11-01T00:00:00,93260,Foggy in the morning.,44.43,65.15
+2015-11-01T00:00:00,93150,Foggy in the morning.,43.87,64.83
+2015-11-01T00:00:00,93340,Foggy in the morning.,44.21,65.18
+2015-11-01T00:00:00,94140,Foggy in the morning.,44.59,65.47
+2015-11-01T00:00:00,94470,Foggy in the morning.,43.53,65.18
+2015-11-01T00:00:00,94500,Foggy in the morning.,43.8,65.05
+2015-11-01T00:00:00,94220,Foggy in the morning.,44.74,65.52
+2015-11-01T00:00:00,94430,Foggy in the morning.,43.78,65.07
+2015-11-01T00:00:00,94600,Foggy in the morning.,43.59,65.36
+2015-11-01T00:00:00,94000,Foggy in the morning.,43.71,65.23
+2015-11-01T00:00:00,94120,Foggy in the morning.,44.34,65.26
+2015-11-01T00:00:00,94200,Foggy in the morning.,44.97,65.7
+2015-11-01T00:00:00,94240,Foggy in the morning.,44.57,65.93
+2015-11-01T00:00:00,94700,Foggy in the morning.,44.38,65.36
+2015-11-01T00:00:00,94130,Foggy in the morning.,44.31,65.3
+2015-11-01T00:00:00,94100,Foggy in the morning.,43.85,65.13
+2015-11-01T00:00:00,94190,Foggy in the morning.,43.11,65.39
+2015-11-01T00:00:00,94300,Foggy in the morning.,44.51,65.27
+2015-11-01T00:00:00,94400,Foggy in the morning.,44.4,65.44
+2015-11-01T00:00:00,94270,Foggy in the morning.,45.71,66.46
+2015-11-01T00:00:00,95100,Foggy in the morning.,44.29,65.25
+2015-11-01T00:00:00,95880,Foggy in the morning.,44.18,64.97
+2015-11-01T00:00:00,95120,Foggy in the morning.,43.29,64.66
+2015-11-01T00:00:00,95220,Foggy in the morning.,42.68,64.74
+2015-11-01T00:00:00,95870,Foggy in the morning.,43.55,65.18
+2015-11-01T00:00:00,95000,Foggy in the morning.,41.54,64.57
+2015-11-01T00:00:00,95170,Foggy in the morning.,44.18,64.94
+2015-11-01T00:00:00,95130,Foggy in the morning.,43.22,64.65
+2015-11-01T00:00:00,95140,Foggy in the morning.,43.66,64.62
+2015-11-01T00:00:00,95500,Foggy in the morning.,43.3,64.52
+2015-11-01T00:00:00,95190,Foggy in the morning.,43.64,64.86
+2015-11-01T00:00:00,95280,Foggy in the morning.,41.45,64.8
+2015-11-01T00:00:00,95200,Foggy in the morning.,44.01,64.76
+2015-11-01T00:00:00,95150,Foggy in the morning.,42.99,64.63
+2015-11-01T00:00:00,95400,Foggy in the morning.,43.43,64.54
+2015-11-01T00:00:00,97100,Clear throughout the day.,81,87.44
+2015-11-01T00:00:00,97130,Clear throughout the day.,81,87.31
+2015-11-01T00:00:00,97139,Clear throughout the day.,79.81,86.62
+2015-11-01T00:00:00,97200,Clear throughout the day.,42.22,87.23
+2015-11-01T00:00:00,97232,Clear throughout the day.,36.66,87.23
+2015-11-01T00:00:00,97300,Clear throughout the day.,73,91.3
+2015-11-01T00:00:00,97432,Partly cloudy in the afternoon.,70,81.89
+2015-11-01T00:00:00,97420,Partly cloudy in the afternoon.,70,81.35
+2015-11-01T00:00:00,97440,Partly cloudy in the afternoon.,70,81.24
+2015-11-01T00:00:00,97400,Partly cloudy until afternoon.,70,81.15
+2015-11-01T00:00:00,97410,Partly cloudy in the afternoon.,70,81.96
+2015-11-01T00:00:00,97490,Partly cloudy until afternoon.,70,81.09
+2015-11-01T00:00:00,97600,Clear throughout the day.,79,88
+2015-11-01T00:00:00,98713,Humid throughout the day and breezy overnight.,75,88
+2015-11-01T00:00:00,98800,Clear throughout the day.,59,81
+2015-11-01T00:00:00,98800,Clear throughout the day.,59,81
+2015-11-01T00:00:00,98800,Clear throughout the day.,59,81
+2015-11-01T00:00:00,98800,Clear throughout the day.,59,81
+2015-11-01T00:00:00,98800,Clear throughout the day.,59,81

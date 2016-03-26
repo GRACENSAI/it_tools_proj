@@ -1,0 +1,665 @@
+2015-11-02T00:00:00,1100,Foggy in the morning.,41.47,55.47
+2015-11-02T00:00:00,1000,Foggy in the morning.,41.28,61.37
+2015-11-02T00:00:00,2400,Foggy until afternoon.,42.33,49.36
+2015-11-02T00:00:00,2000,Foggy throughout the day.,42.81,46.69
+2015-11-02T00:00:00,2100,Foggy throughout the day.,42.38,46.93
+2015-11-02T00:00:00,2200,Foggy throughout the day.,42.12,47.42
+2015-11-02T00:00:00,2700,Foggy throughout the day.,42.45,46.94
+2015-11-02T00:00:00,3100,Mostly cloudy starting in the evening.,38.41,66.47
+2015-11-02T00:00:00,3000,Foggy in the morning.,39.64,65.58
+2015-11-02T00:00:00,3200,Mostly cloudy throughout the day.,35.12,66.64
+2015-11-02T00:00:00,4000,Mostly cloudy throughout the day.,42.56,64.56
+2015-11-02T00:00:00,4100,Mostly cloudy throughout the day.,44.68,67.04
+2015-11-02T00:00:00,5100,Breezy in the morning.,46.05,64.71
+2015-11-02T00:00:00,5000,Mostly cloudy starting in the evening and breezy overnight.,46.37,65.87
+2015-11-02T00:00:00,6600,Breezy until afternoon and partly cloudy starting in the afternoon.,48.37,66
+2015-11-02T00:00:00,6240,Breezy until afternoon and partly cloudy starting in the afternoon.,51.73,65.36
+2015-11-02T00:00:00,6800,Breezy until afternoon and partly cloudy starting in the afternoon.,50.04,65.84
+2015-11-02T00:00:00,6400,Partly cloudy starting in the afternoon.,46.97,66
+2015-11-02T00:00:00,6150,Partly cloudy starting in the afternoon.,46.5,66
+2015-11-02T00:00:00,6130,Partly cloudy throughout the day.,47.29,66
+2015-11-02T00:00:00,6110,Partly cloudy starting in the afternoon.,47.16,66
+2015-11-02T00:00:00,6500,Partly cloudy starting in the afternoon.,52.95,65.52
+2015-11-02T00:00:00,6000,Breezy until afternoon and partly cloudy starting in the afternoon.,50.57,65.67
+2015-11-02T00:00:00,6300,Breezy until afternoon and partly cloudy starting in the afternoon.,50.89,65.55
+2015-11-02T00:00:00,6200,Breezy until afternoon and partly cloudy starting in the afternoon.,50.15,65.86
+2015-11-02T00:00:00,6190,Partly cloudy starting in the afternoon.,52.74,65.53
+2015-11-02T00:00:00,6700,Breezy until afternoon and partly cloudy starting in the afternoon.,50.11,65.89
+2015-11-02T00:00:00,6220,Partly cloudy starting in the afternoon.,47.54,66
+2015-11-02T00:00:00,6230,Breezy until afternoon and partly cloudy starting in the afternoon.,50.82,65.59
+2015-11-02T00:00:00,7200,Mostly cloudy in the morning.,40.74,63.88
+2015-11-02T00:00:00,7500,Partly cloudy throughout the day.,42.29,64.17
+2015-11-02T00:00:00,7000,Mostly cloudy throughout the day.,40.85,65.43
+2015-11-02T00:00:00,8000,Foggy in the morning.,42.15,47.21
+2015-11-02T00:00:00,8200,Foggy starting in the evening.,39.24,49.1
+2015-11-02T00:00:00,9000,"Breezy starting in the afternoon, continuing until evening, and heavy rain in the evening and overnight.",51.17,63.43
+2015-11-02T00:00:00,9100,"Breezy starting in the afternoon, continuing until evening, and heavy rain in the evening and overnight.",52.31,63.46
+2015-11-02T00:00:00,10600,Foggy in the morning.,39.95,61.09
+2015-11-02T00:00:00,10000,Foggy in the morning.,40.61,59.8
+2015-11-02T00:00:00,10000,Foggy in the morning.,40.92,59.19
+2015-11-02T00:00:00,10000,Foggy in the morning.,40.69,59.65
+2015-11-02T00:00:00,11000,"Rain until afternoon, starting again in the evening, and breezy starting in the evening.",54.23,61.43
+2015-11-02T00:00:00,11100,Windy starting in the afternoon and rain in the evening and overnight.,53.88,64.16
+2015-11-02T00:00:00,12300,Breezy throughout the day and light rain overnight.,49.28,58.38
+2015-11-02T00:00:00,12100,Windy starting in the evening and rain overnight.,46.73,53.09
+2015-11-02T00:00:00,12000,Mostly cloudy in the morning and breezy throughout the day.,48.94,56.79
+2015-11-02T00:00:00,13100,Mostly cloudy throughout the day and breezy starting in the evening.,48.34,70.34
+2015-11-02T00:00:00,13190,Mostly cloudy throughout the day and breezy starting in the evening.,51.34,69.27
+2015-11-02T00:00:00,13200,Overcast starting in the evening.,45.29,68.68
+2015-11-02T00:00:00,13400,Windy and mostly cloudy throughout the day.,54.76,67.58
+2015-11-02T00:00:00,13800,Mostly cloudy throughout the day.,47.56,70
+2015-11-02T00:00:00,13170,Mostly cloudy throughout the day and breezy starting in the evening.,48.72,70.72
+2015-11-02T00:00:00,13700,Mostly cloudy throughout the day and breezy overnight.,49.2,71.2
+2015-11-02T00:00:00,13010,Mostly cloudy throughout the day and breezy starting in the evening.,51.37,69.27
+2015-11-02T00:00:00,13011,Windy and mostly cloudy throughout the day.,54.1,68.18
+2015-11-02T00:00:00,13012,Mostly cloudy throughout the day and breezy starting in the evening.,51.28,69.3
+2015-11-02T00:00:00,13013,Mostly cloudy throughout the day and breezy starting in the evening.,48.5,70.5
+2015-11-02T00:00:00,13014,Mostly cloudy throughout the day and breezy starting in the evening.,48.53,70.53
+2015-11-02T00:00:00,13015,Mostly cloudy throughout the day and breezy starting in the evening.,48.59,70.59
+2015-11-02T00:00:00,13016,Mostly cloudy throughout the day and breezy overnight.,48.74,70.74
+2015-11-02T00:00:00,13001,Mostly cloudy throughout the day and breezy starting in the evening.,48.49,70.49
+2015-11-02T00:00:00,13002,Mostly cloudy throughout the day and breezy starting in the evening.,48.52,70.52
+2015-11-02T00:00:00,13003,Mostly cloudy throughout the day and breezy starting in the evening.,48.54,70.54
+2015-11-02T00:00:00,13004,Mostly cloudy throughout the day and breezy starting in the evening.,48.49,70.49
+2015-11-02T00:00:00,13005,Mostly cloudy throughout the day and breezy starting in the evening.,48.47,70.47
+2015-11-02T00:00:00,13006,Mostly cloudy throughout the day and breezy starting in the evening.,48.48,70.48
+2015-11-02T00:00:00,13007,Mostly cloudy throughout the day and breezy starting in the evening.,48.5,70.5
+2015-11-02T00:00:00,13008,Mostly cloudy throughout the day and windy starting in the evening.,51.51,69.23
+2015-11-02T00:00:00,13009,Mostly cloudy throughout the day and windy starting in the evening.,51.59,69.2
+2015-11-02T00:00:00,13500,Mostly cloudy throughout the day and breezy overnight.,48.21,70.21
+2015-11-02T00:00:00,13140,Mostly cloudy throughout the day.,47.1,70
+2015-11-02T00:00:00,13380,Mostly cloudy throughout the day and breezy starting in the evening.,51.29,69.29
+2015-11-02T00:00:00,13110,Mostly cloudy throughout the day.,48.07,70.07
+2015-11-02T00:00:00,13300,Mostly cloudy throughout the day.,46.3,70
+2015-11-02T00:00:00,13240,Mostly cloudy throughout the day and breezy starting in the evening.,48.7,70.7
+2015-11-02T00:00:00,13150,Overcast starting in the evening.,44.4,68.85
+2015-11-02T00:00:00,13127,Mostly cloudy throughout the day.,49.53,71.53
+2015-11-02T00:00:00,13600,Windy and mostly cloudy throughout the day.,55.94,66.58
+2015-11-02T00:00:00,14600,Foggy in the morning.,45.74,59.83
+2015-11-02T00:00:00,14000,Foggy in the morning.,41.14,63.53
+2015-11-02T00:00:00,14000,Foggy in the morning.,40.74,63.99
+2015-11-02T00:00:00,14000,Foggy in the morning.,41.54,63.07
+2015-11-02T00:00:00,14650,Foggy in the morning.,39.22,65.74
+2015-11-02T00:00:00,14800,Foggy in the morning.,46.15,60.91
+2015-11-02T00:00:00,14160,Foggy in the morning.,44.8,60.68
+2015-11-02T00:00:00,14200,Foggy in the morning.,42.33,62.26
+2015-11-02T00:00:00,14100,Foggy in the morning.,44.69,59.1
+2015-11-02T00:00:00,14120,Foggy in the morning.,42.23,62.32
+2015-11-02T00:00:00,15000,Breezy starting in the evening and light rain overnight.,45.66,59.2
+2015-11-02T00:00:00,16000,Light rain overnight.,52.84,68.45
+2015-11-02T00:00:00,16000,Breezy until afternoon and light rain overnight.,52.53,68.56
+2015-11-02T00:00:00,16800,Light rain overnight.,52.97,68.4
+2015-11-02T00:00:00,16100,Mostly cloudy throughout the day and breezy until afternoon.,48.68,71.33
+2015-11-02T00:00:00,17000,Mostly cloudy throughout the day.,48.68,68.46
+2015-11-02T00:00:00,17000,Partly cloudy throughout the day.,49.11,68.34
+2015-11-02T00:00:00,17180,Mostly cloudy throughout the day.,48.89,68.42
+2015-11-02T00:00:00,17300,Mostly cloudy throughout the day.,50.46,68.38
+2015-11-02T00:00:00,17200,Mostly cloudy throughout the day.,50.81,68.77
+2015-11-02T00:00:00,17100,Mostly cloudy throughout the day.,49.8,69.49
+2015-11-02T00:00:00,18000,Foggy in the morning.,41.59,65.6
+2015-11-02T00:00:00,18100,Foggy in the morning.,37.08,66.68
+2015-11-02T00:00:00,19200,Light rain overnight.,43.74,64.19
+2015-11-02T00:00:00,19100,Breezy in the afternoon and rain overnight.,41.21,67.89
+2015-11-02T00:00:00,19000,Rain overnight.,44.13,65.7
+2015-11-02T00:00:00,21200,Foggy in the morning.,42.66,54.25
+2015-11-02T00:00:00,21000,Foggy in the morning.,41.63,52.58
+2015-11-02T00:00:00,22300,Mostly cloudy overnight.,49.09,63.87
+2015-11-02T00:00:00,22000,Partly cloudy overnight.,49.04,63.98
+2015-11-02T00:00:00,23000,Mostly cloudy throughout the day.,34.6,67.43
+2015-11-02T00:00:00,24100,Breezy until afternoon and light rain overnight.,48.15,69.61
+2015-11-02T00:00:00,24000,Breezy in the afternoon and rain overnight.,49.2,67.27
+2015-11-02T00:00:00,25000,Foggy in the morning.,40.7,56.05
+2015-11-02T00:00:00,25200,Foggy throughout the day.,39.24,56.63
+2015-11-02T00:00:00,25300,Foggy in the morning.,39.4,54.76
+2015-11-02T00:00:00,26200,Foggy in the morning.,41.9,66.97
+2015-11-02T00:00:00,26100,Partly cloudy until evening.,42.11,63.31
+2015-11-02T00:00:00,26000,Partly cloudy throughout the day.,42.29,64.14
+2015-11-02T00:00:00,27000,Foggy throughout the day.,40.5,47.8
+2015-11-02T00:00:00,27000,Foggy throughout the day.,40.46,47.82
+2015-11-02T00:00:00,27400,Foggy throughout the day.,41.03,47.47
+2015-11-02T00:00:00,27100,Foggy throughout the day.,41.19,47.55
+2015-11-02T00:00:00,27200,Foggy throughout the day.,40.25,47.57
+2015-11-02T00:00:00,28000,Foggy until evening.,41,49.42
+2015-11-02T00:00:00,28100,Foggy until evening.,41,48.07
+2015-11-02T00:00:00,29200,Partly cloudy starting in the evening.,50.68,66.32
+2015-11-02T00:00:00,29200,Partly cloudy starting in the evening.,50.47,66.46
+2015-11-02T00:00:00,29200,Partly cloudy starting in the evening.,50.49,66.44
+2015-11-02T00:00:00,29200,Partly cloudy starting in the evening.,50.17,66.65
+2015-11-02T00:00:00,29200,Partly cloudy starting in the evening.,50.91,66.16
+2015-11-02T00:00:00,29900,Mostly cloudy overnight.,50.98,63.48
+2015-11-02T00:00:00,29600,Clear throughout the day.,52.51,63.61
+2015-11-02T00:00:00,29600,Clear throughout the day.,52.56,63.65
+2015-11-02T00:00:00,29000,Clear throughout the day.,50.51,63.13
+2015-11-02T00:00:00,29000,Clear throughout the day.,50.57,63.14
+2015-11-02T00:00:00,29000,Clear throughout the day.,50.54,63.14
+2015-11-02T00:00:00,29000,Clear throughout the day.,50.33,63.08
+2015-11-02T00:00:00,20000,Partly cloudy until evening.,49.04,69.52
+2015-11-02T00:00:00,20200,Partly cloudy throughout the day.,53.39,65.16
+2015-11-02T00:00:00,30100,Rain overnight.,42.24,60.43
+2015-11-02T00:00:00,30200,Overcast starting in the evening.,41.98,69.15
+2015-11-02T00:00:00,30000,Mostly cloudy throughout the day.,44.98,68.05
+2015-11-02T00:00:00,30000,Mostly cloudy throughout the day.,44.79,68.39
+2015-11-02T00:00:00,30000,Mostly cloudy throughout the day.,44.97,68
+2015-11-02T00:00:00,30400,Overcast starting in the evening.,41.67,69.55
+2015-11-02T00:00:00,31700,Windy throughout the day and heavy rain overnight.,46.47,65.73
+2015-11-02T00:00:00,31770,Windy throughout the day and heavy rain overnight.,50.09,65.41
+2015-11-02T00:00:00,31800,"Breezy starting in the afternoon, continuing until evening, and rain in the evening and overnight.",50.91,64.69
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,51.6,65.27
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,53.67,65.03
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,52.9,65.14
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,52.85,65.17
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,55.1,64.84
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,50.94,65.35
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,54.32,65.02
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,52.65,65.14
+2015-11-02T00:00:00,31000,Windy throughout the day and heavy rain overnight.,54.47,64.96
+2015-11-02T00:00:00,31170,Windy throughout the day and heavy rain overnight.,52.96,65.1
+2015-11-02T00:00:00,32000,"Breezy starting in the afternoon, continuing until evening, and rain in the evening and overnight.",55.93,68.2
+2015-11-02T00:00:00,33120,Partly cloudy throughout the day.,50.74,68.43
+2015-11-02T00:00:00,33320,Mostly cloudy throughout the day and breezy until afternoon.,51.63,69.36
+2015-11-02T00:00:00,33000,Mostly cloudy throughout the day and breezy until afternoon.,51.58,69.28
+2015-11-02T00:00:00,33130,Mostly cloudy throughout the day and breezy in the afternoon.,51.45,69.06
+2015-11-02T00:00:00,33150,Mostly cloudy throughout the day and breezy in the afternoon.,51.44,69.02
+2015-11-02T00:00:00,33110,Mostly cloudy throughout the day and breezy until afternoon.,51.57,69.26
+2015-11-02T00:00:00,33700,Mostly cloudy throughout the day and breezy until afternoon.,51.77,69.62
+2015-11-02T00:00:00,33600,Mostly cloudy throughout the day and breezy until afternoon.,51.67,69.45
+2015-11-02T00:00:00,33400,Mostly cloudy throughout the day and breezy until afternoon.,51.56,69.26
+2015-11-02T00:00:00,34300,Breezy starting in the afternoon and rain overnight.,52.83,65.45
+2015-11-02T00:00:00,34500,Windy starting in the evening and rain overnight.,52.28,65.53
+2015-11-02T00:00:00,34500,Windy starting in the evening and rain overnight.,52.29,65.53
+2015-11-02T00:00:00,34110,Rain and windy overnight.,52.54,64.94
+2015-11-02T00:00:00,34970,Rain and windy overnight.,49,65.94
+2015-11-02T00:00:00,34000,Rain and breezy overnight.,49.09,65.96
+2015-11-02T00:00:00,34000,Rain and breezy overnight.,49.41,65.93
+2015-11-02T00:00:00,34000,Rain and windy overnight.,51.07,65.57
+2015-11-02T00:00:00,34200,Rain and windy overnight.,53.62,64.27
+2015-11-02T00:00:00,35300,Overcast overnight.,43.05,64.89
+2015-11-02T00:00:00,35000,Overcast overnight.,41.8,65.88
+2015-11-02T00:00:00,35400,Partly cloudy starting in the afternoon.,46.55,65.45
+2015-11-02T00:00:00,36000,Foggy in the morning.,36.54,67.65
+2015-11-02T00:00:00,37300,Foggy in the morning.,43.34,63.39
+2015-11-02T00:00:00,37000,Foggy in the morning.,43.77,63.28
+2015-11-02T00:00:00,38130,Partly cloudy until evening.,37.9,60.6
+2015-11-02T00:00:00,38300,Partly cloudy starting in the afternoon.,41.31,62.14
+2015-11-02T00:00:00,38600,Partly cloudy until evening.,38.11,60.52
+2015-11-02T00:00:00,38000,Partly cloudy until evening.,37.57,60.88
+2015-11-02T00:00:00,38000,Partly cloudy until evening.,37.72,60.71
+2015-11-02T00:00:00,38400,Partly cloudy until evening.,37.42,61.05
+2015-11-02T00:00:00,38200,Mostly cloudy throughout the day.,42.36,63.59
+2015-11-02T00:00:00,38500,Partly cloudy starting in the afternoon.,40.04,60.26
+2015-11-02T00:00:00,39100,Foggy in the morning.,42.53,54.46
+2015-11-02T00:00:00,39000,Foggy in the morning.,42.89,51.28
+2015-11-02T00:00:00,40100,Light rain in the evening.,46.52,64.41
+2015-11-02T00:00:00,40000,Mostly cloudy throughout the day.,48.01,69.22
+2015-11-02T00:00:00,41000,Foggy in the morning.,41.89,60.6
+2015-11-02T00:00:00,41000,Foggy in the morning.,42.04,60.58
+2015-11-02T00:00:00,41100,Foggy in the morning.,42.79,59.08
+2015-11-02T00:00:00,41350,Foggy in the morning.,41.74,60.62
+2015-11-02T00:00:00,42300,Mostly cloudy throughout the day.,39.85,64.26
+2015-11-02T00:00:00,42000,Mostly cloudy throughout the day.,40.49,63.19
+2015-11-02T00:00:00,42700,Mostly cloudy throughout the day.,40.22,62.96
+2015-11-02T00:00:00,42800,Mostly cloudy throughout the day.,41.86,63.77
+2015-11-02T00:00:00,43000,Mostly cloudy in the morning.,37.38,58.06
+2015-11-02T00:00:00,44000,Light rain overnight.,47.96,67.36
+2015-11-02T00:00:00,44700,Light rain overnight.,47.89,67.26
+2015-11-02T00:00:00,44400,Light rain overnight.,48.01,67.58
+2015-11-02T00:00:00,44600,Partly cloudy starting in the afternoon.,47.4,65.86
+2015-11-02T00:00:00,44800,Light rain overnight.,48.86,67.33
+2015-11-02T00:00:00,44500,Partly cloudy starting in the afternoon.,47.84,65.61
+2015-11-02T00:00:00,45160,Foggy until afternoon.,41.03,57.43
+2015-11-02T00:00:00,45000,Foggy until afternoon.,41.07,57.47
+2015-11-02T00:00:00,45000,Foggy until afternoon.,41.06,57.39
+2015-11-02T00:00:00,45000,Foggy until afternoon.,40.93,57.45
+2015-11-02T00:00:00,45400,Foggy until afternoon.,41.09,57.45
+2015-11-02T00:00:00,45200,Foggy until afternoon.,42.37,51.63
+2015-11-02T00:00:00,45800,Foggy until afternoon.,41.03,57.32
+2015-11-02T00:00:00,45140,Foggy until afternoon.,41.08,57.51
+2015-11-02T00:00:00,46000,Breezy throughout the day and rain overnight.,51.58,66.99
+2015-11-02T00:00:00,47000,"Breezy starting in the afternoon, continuing until evening, and rain overnight.",45.16,69.66
+2015-11-02T00:00:00,47300,Breezy until evening and light rain overnight.,51.62,68.33
+2015-11-02T00:00:00,48000,Rain and breezy overnight.,44.79,52.58
+2015-11-02T00:00:00,49000,Foggy in the morning.,42.98,65.56
+2015-11-02T00:00:00,49000,Foggy in the morning.,43,65.54
+2015-11-02T00:00:00,49000,Foggy in the morning.,43,65.73
+2015-11-02T00:00:00,49000,Foggy in the morning.,42.92,65.41
+2015-11-02T00:00:00,49300,Drizzle overnight.,46.5,66.5
+2015-11-02T00:00:00,49300,Drizzle overnight.,46.59,66.52
+2015-11-02T00:00:00,49400,Foggy in the morning.,42.17,64.88
+2015-11-02T00:00:00,50100,Foggy in the morning.,50.67,61.99
+2015-11-02T00:00:00,50200,Partly cloudy throughout the day.,48,63
+2015-11-02T00:00:00,50400,Partly cloudy starting in the afternoon.,46.84,64.73
+2015-11-02T00:00:00,50000,Foggy in the morning.,44.92,63.89
+2015-11-02T00:00:00,51200,Foggy until afternoon.,43.26,51.5
+2015-11-02T00:00:00,51000,Foggy until afternoon.,43.26,52.25
+2015-11-02T00:00:00,51100,Foggy throughout the day.,43.21,48.76
+2015-11-02T00:00:00,51450,Foggy throughout the day.,43.22,48.73
+2015-11-02T00:00:00,51100,Foggy throughout the day.,43.18,48.75
+2015-11-02T00:00:00,51100,Foggy throughout the day.,43.21,48.77
+2015-11-02T00:00:00,51100,Foggy throughout the day.,43.2,48.73
+2015-11-02T00:00:00,51100,Foggy throughout the day.,43.23,48.75
+2015-11-02T00:00:00,51430,Foggy throughout the day.,43.21,48.78
+2015-11-02T00:00:00,52000,Foggy in the morning.,41.61,53.99
+2015-11-02T00:00:00,52100,Overcast throughout the day.,43.33,57.75
+2015-11-02T00:00:00,53000,Foggy in the morning.,43.29,64.22
+2015-11-02T00:00:00,54150,Foggy throughout the day.,40.86,46.66
+2015-11-02T00:00:00,54800,Foggy throughout the day.,41.78,47.57
+2015-11-02T00:00:00,54110,Foggy throughout the day.,42.8,49.48
+2015-11-02T00:00:00,54520,Foggy throughout the day.,42.99,49.7
+2015-11-02T00:00:00,54400,Foggy starting in the evening.,38.36,45.46
+2015-11-02T00:00:00,54300,Foggy starting in the evening.,43.17,49.12
+2015-11-02T00:00:00,54000,Foggy throughout the day.,41.85,48.7
+2015-11-02T00:00:00,54000,Foggy throughout the day.,42.49,49.25
+2015-11-02T00:00:00,54700,Foggy in the morning.,44.69,51.16
+2015-11-02T00:00:00,54130,Foggy throughout the day.,41.85,48.69
+2015-11-02T00:00:00,54200,Foggy in the morning.,44.52,52.73
+2015-11-02T00:00:00,54500,Foggy throughout the day.,42.47,49.23
+2015-11-02T00:00:00,54190,Foggy starting in the evening.,38.31,45.35
+2015-11-02T00:00:00,55000,Overcast throughout the day.,44.18,55.88
+2015-11-02T00:00:00,55000,Overcast throughout the day.,44.21,55.84
+2015-11-02T00:00:00,55100,Foggy in the morning.,42.57,51.03
+2015-11-02T00:00:00,56100,Mostly cloudy overnight.,49.27,63.6
+2015-11-02T00:00:00,56000,Mostly cloudy overnight.,50.2,63.56
+2015-11-02T00:00:00,57190,Foggy throughout the day.,40.07,45.91
+2015-11-02T00:00:00,57600,Foggy throughout the day.,37.16,42.57
+2015-11-02T00:00:00,57800,Foggy throughout the day.,37.5,42.77
+2015-11-02T00:00:00,57300,Foggy throughout the day.,40.83,46.4
+2015-11-02T00:00:00,57700,Foggy throughout the day.,40.06,45.94
+2015-11-02T00:00:00,57000,Foggy throughout the day.,42.16,47.48
+2015-11-02T00:00:00,57000,Foggy throughout the day.,42.22,47.36
+2015-11-02T00:00:00,57000,Foggy throughout the day.,42.07,47.23
+2015-11-02T00:00:00,57950,Foggy throughout the day.,42.28,47.51
+2015-11-02T00:00:00,57250,Foggy throughout the day.,40.89,46.56
+2015-11-02T00:00:00,57120,Foggy throughout the day.,40.87,46.49
+2015-11-02T00:00:00,57500,Foggy throughout the day.,41.3,46.43
+2015-11-02T00:00:00,57400,Foggy starting in the evening.,41.41,45.22
+2015-11-02T00:00:00,57200,Foggy throughout the day.,37.59,43.12
+2015-11-02T00:00:00,57100,Foggy throughout the day.,39.64,45.58
+2015-11-02T00:00:00,57140,Foggy throughout the day.,42.08,47.57
+2015-11-02T00:00:00,57970,Foggy throughout the day.,39.83,45.7
+2015-11-02T00:00:00,58000,Foggy in the morning.,38.52,63.65
+2015-11-02T00:00:00,59580,Foggy starting in the evening.,39.19,48.56
+2015-11-02T00:00:00,59410,Foggy in the morning.,37.14,49.98
+2015-11-02T00:00:00,59280,Foggy starting in the evening.,38.21,48.39
+2015-11-02T00:00:00,59124,Foggy in the morning.,39.01,48.73
+2015-11-02T00:00:00,59190,Foggy starting in the evening.,38.53,50.92
+2015-11-02T00:00:00,59264,Foggy in the morning.,36.99,50.15
+2015-11-02T00:00:00,59270,Foggy starting in the evening.,38.47,50.29
+2015-11-02T00:00:00,59400,Foggy throughout the day.,39.88,48.24
+2015-11-02T00:00:00,59163,Foggy in the morning.,36.9,50.12
+2015-11-02T00:00:00,59170,Foggy throughout the day.,37.74,48.48
+2015-11-02T00:00:00,59220,Foggy in the morning.,38.96,48.81
+2015-11-02T00:00:00,59500,Foggy throughout the day.,39.11,47.56
+2015-11-02T00:00:00,59282,Foggy in the morning.,39.05,48.77
+2015-11-02T00:00:00,59140,Foggy in the morning.,40.99,53.18
+2015-11-02T00:00:00,59820,Foggy in the morning.,44.47,54.05
+2015-11-02T00:00:00,59510,Foggy throughout the day.,37.76,48.51
+2015-11-02T00:00:00,59110,Foggy throughout the day.,37.96,48.39
+2015-11-02T00:00:00,59000,Foggy until afternoon.,38.2,48.32
+2015-11-02T00:00:00,59000,Foggy throughout the day.,38.24,48.21
+2015-11-02T00:00:00,59156,Foggy in the morning.,39.08,48.71
+2015-11-02T00:00:00,59700,Foggy throughout the day.,37.83,48.43
+2015-11-02T00:00:00,59770,Foggy in the morning.,38.59,49.11
+2015-11-02T00:00:00,59600,Foggy in the morning.,39.59,52.78
+2015-11-02T00:00:00,59590,Foggy in the morning.,37.15,49.95
+2015-11-02T00:00:00,59100,Foggy throughout the day.,37.64,48.53
+2015-11-02T00:00:00,59100,Foggy throughout the day.,37.63,48.51
+2015-11-02T00:00:00,59100,Foggy throughout the day.,37.67,48.52
+2015-11-02T00:00:00,59230,Foggy in the morning.,37.37,49.39
+2015-11-02T00:00:00,59490,Foggy starting in the evening.,39.05,48.64
+2015-11-02T00:00:00,59200,Foggy throughout the day.,37.59,48.49
+2015-11-02T00:00:00,59300,Foggy in the morning.,38.06,49.49
+2015-11-02T00:00:00,59650,Foggy until afternoon.,38.16,48.35
+2015-11-02T00:00:00,59135,Foggy in the morning.,38.4,48.83
+2015-11-02T00:00:00,59290,Foggy throughout the day.,37.82,48.45
+2015-11-02T00:00:00,59139,Foggy until afternoon.,38.37,48.26
+2015-11-02T00:00:00,59150,Foggy throughout the day.,37.55,48.58
+2015-11-02T00:00:00,60000,Foggy until evening.,36.72,47.41
+2015-11-02T00:00:00,60200,Foggy until afternoon.,39.24,47.63
+2015-11-02T00:00:00,60100,Foggy until afternoon.,37.58,48.01
+2015-11-02T00:00:00,61000,Foggy in the morning.,38.13,64.88
+2015-11-02T00:00:00,61200,Foggy in the morning.,41.91,60.17
+2015-11-02T00:00:00,61100,Foggy in the morning.,40.5,64.92
+2015-11-02T00:00:00,62220,Foggy throughout the day.,38.32,47.84
+2015-11-02T00:00:00,62110,Foggy throughout the day.,39.11,47.55
+2015-11-02T00:00:00,62800,Foggy throughout the day.,39.63,47.16
+2015-11-02T00:00:00,62217,Foggy throughout the day.,40.6,46.66
+2015-11-02T00:00:00,62000,Foggy throughout the day.,40.53,46.59
+2015-11-02T00:00:00,62000,Foggy throughout the day.,40.53,46.6
+2015-11-02T00:00:00,62260,Foggy throughout the day.,39.56,46.89
+2015-11-02T00:00:00,62138,Foggy throughout the day.,38.21,47.77
+2015-11-02T00:00:00,62210,Foggy throughout the day.,39.22,47.45
+2015-11-02T00:00:00,62230,Mostly cloudy starting in the afternoon.,46.1,59.55
+2015-11-02T00:00:00,62620,Foggy throughout the day.,39.23,46.93
+2015-11-02T00:00:00,62600,Foggy in the morning.,42.11,52.19
+2015-11-02T00:00:00,62200,Mostly cloudy starting in the afternoon.,46.05,60.72
+2015-11-02T00:00:00,62200,Mostly cloudy starting in the afternoon.,46.02,61.51
+2015-11-02T00:00:00,62700,Foggy throughout the day.,39.55,46.91
+2015-11-02T00:00:00,62400,Foggy throughout the day.,38.95,48.73
+2015-11-02T00:00:00,62100,Foggy in the morning.,45.22,55.27
+2015-11-02T00:00:00,62300,Foggy throughout the day.,39.18,47.48
+2015-11-02T00:00:00,62540,Foggy throughout the day.,39.54,46.91
+2015-11-02T00:00:00,62290,Foggy throughout the day.,39.16,47
+2015-11-02T00:00:00,62500,Foggy in the morning.,45.16,55.13
+2015-11-02T00:00:00,62223,Foggy throughout the day.,40.51,46.57
+2015-11-02T00:00:00,62520,Foggy in the morning.,39.88,53.75
+2015-11-02T00:00:00,63400,Mostly cloudy throughout the day and breezy in the afternoon.,42.07,65.47
+2015-11-02T00:00:00,63000,Mostly cloudy throughout the day and breezy in the afternoon.,42.97,65.64
+2015-11-02T00:00:00,63000,Mostly cloudy throughout the day and breezy in the afternoon.,42.4,65.53
+2015-11-02T00:00:00,63000,Mostly cloudy throughout the day and breezy in the afternoon.,42.57,65.54
+2015-11-02T00:00:00,63800,Mostly cloudy throughout the day and breezy in the afternoon.,43.06,65.47
+2015-11-02T00:00:00,63360,Mostly cloudy throughout the day and breezy in the afternoon.,43.07,65.59
+2015-11-02T00:00:00,63200,Breezy in the afternoon and overcast starting in the evening.,40.95,66.19
+2015-11-02T00:00:00,64700,Mostly cloudy throughout the day.,54.01,63.9
+2015-11-02T00:00:00,64100,Mostly cloudy throughout the day.,49.49,62.95
+2015-11-02T00:00:00,64200,Mostly cloudy throughout the day.,47.94,63.05
+2015-11-02T00:00:00,64000,Light rain in the evening.,46.54,64.35
+2015-11-02T00:00:00,64500,Mostly cloudy throughout the day.,53.44,63.72
+2015-11-02T00:00:00,65100,Rain in the evening and overnight.,46.69,65.49
+2015-11-02T00:00:00,65000,Rain in the evening and overnight.,48.63,65.16
+2015-11-02T00:00:00,66000,Rain in the evening and overnight and windy overnight.,42.6,63.13
+2015-11-02T00:00:00,66000,Rain in the evening and overnight and windy starting in the evening.,43.83,63.16
+2015-11-02T00:00:00,66000,Rain in the evening and overnight and windy overnight.,41.78,63.11
+2015-11-02T00:00:00,66000,Rain in the evening and overnight and windy overnight.,42.96,63.14
+2015-11-02T00:00:00,67540,Foggy starting in the evening.,40.6,44.75
+2015-11-02T00:00:00,67800,Foggy starting in the evening.,40.41,44.53
+2015-11-02T00:00:00,67500,Foggy starting in the evening.,40.01,44.1
+2015-11-02T00:00:00,67800,Foggy starting in the evening.,40.39,44.48
+2015-11-02T00:00:00,67400,Foggy starting in the evening.,40.58,44.76
+2015-11-02T00:00:00,67380,Foggy starting in the evening.,40.69,44.78
+2015-11-02T00:00:00,67300,Foggy starting in the evening.,40.43,44.55
+2015-11-02T00:00:00,67600,Foggy starting in the evening.,42.56,48.96
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.48,44.64
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.47,44.59
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.53,44.64
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.55,44.67
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.49,44.69
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.47,44.64
+2015-11-02T00:00:00,67100,Foggy starting in the evening.,40.45,44.68
+2015-11-02T00:00:00,68000,Foggy starting in the evening.,42.78,53
+2015-11-02T00:00:00,68100,Foggy in the evening.,41.96,57.04
+2015-11-02T00:00:00,68100,Foggy starting in the evening.,41.91,57.01
+2015-11-02T00:00:00,68100,Foggy starting in the evening.,41.91,57.07
+2015-11-02T00:00:00,68100,Foggy in the evening.,42.02,57.1
+2015-11-02T00:00:00,68300,Mostly cloudy throughout the day.,43.6,57.28
+2015-11-02T00:00:00,68270,Foggy starting in the evening.,41.87,56.89
+2015-11-02T00:00:00,69130,Foggy in the morning.,41.47,64.27
+2015-11-02T00:00:00,69600,Foggy in the morning.,42.05,64.2
+2015-11-02T00:00:00,69500,Foggy in the morning.,43.74,63.98
+2015-11-02T00:00:00,69300,Foggy in the morning.,41.67,64.24
+2015-11-02T00:00:00,69700,Mostly cloudy throughout the day.,42.34,63.74
+2015-11-02T00:00:00,69001,Foggy in the morning.,41.99,64.21
+2015-11-02T00:00:00,69002,Foggy in the morning.,42.1,64.2
+2015-11-02T00:00:00,69003,Foggy in the morning.,42.19,64.19
+2015-11-02T00:00:00,69004,Foggy in the morning.,41.86,64.22
+2015-11-02T00:00:00,69005,Foggy in the morning.,41.89,64.22
+2015-11-02T00:00:00,69007,Foggy in the morning.,42.26,64.19
+2015-11-02T00:00:00,69008,Foggy in the morning.,42.83,64.14
+2015-11-02T00:00:00,69009,Foggy in the morning.,41.62,64.25
+2015-11-02T00:00:00,69330,Foggy in the morning.,41.95,63.97
+2015-11-02T00:00:00,69140,Foggy in the morning.,42.06,63.63
+2015-11-02T00:00:00,69800,Foggy in the morning.,43.6,63.96
+2015-11-02T00:00:00,69120,Foggy in the morning.,42.29,64.16
+2015-11-02T00:00:00,69400,Foggy in the morning.,41.07,63
+2015-11-02T00:00:00,69100,Foggy in the morning.,42.35,64.17
+2015-11-02T00:00:00,69200,Foggy in the morning.,43.07,64.12
+2015-11-02T00:00:00,70400,Foggy throughout the day.,40.22,56.9
+2015-11-02T00:00:00,70000,Foggy in the morning.,40.67,55.33
+2015-11-02T00:00:00,71100,Foggy in the morning.,44.02,56.13
+2015-11-02T00:00:00,71200,Foggy in the morning.,43.04,57.21
+2015-11-02T00:00:00,71000,Foggy in the morning.,45.35,59.47
+2015-11-02T00:00:00,71300,Foggy in the morning.,42.16,59.21
+2015-11-02T00:00:00,72700,Foggy in the morning.,42.78,63.96
+2015-11-02T00:00:00,72190,Foggy in the morning.,42.62,63.96
+2015-11-02T00:00:00,72000,Foggy in the morning.,42.73,63.96
+2015-11-02T00:00:00,72000,Foggy in the morning.,42.74,63.96
+2015-11-02T00:00:00,72000,Foggy in the morning.,42.78,63.96
+2015-11-02T00:00:00,73100,Foggy in the morning.,36.09,57.08
+2015-11-02T00:00:00,73200,Mostly cloudy overnight.,44.97,62
+2015-11-02T00:00:00,73000,Partly cloudy until evening.,36.87,56.71
+2015-11-02T00:00:00,74000,Foggy in the morning.,37.3,60.08
+2015-11-02T00:00:00,74100,Foggy in the morning.,42.2,51.92
+2015-11-02T00:00:00,74960,Foggy in the morning.,36.94,60.9
+2015-11-02T00:00:00,74200,Foggy in the morning.,41.13,48.35
+2015-11-02T00:00:00,75010,Foggy until afternoon.,43.07,50.33
+2015-11-02T00:00:00,75011,Foggy until afternoon.,43.15,50.54
+2015-11-02T00:00:00,75012,Foggy until afternoon.,43.19,50.67
+2015-11-02T00:00:00,75013,Foggy until afternoon.,43.39,51.4
+2015-11-02T00:00:00,75014,Foggy until afternoon.,43.45,51.47
+2015-11-02T00:00:00,75015,Foggy until afternoon.,43.28,51.13
+2015-11-02T00:00:00,75016,Foggy until afternoon.,43.05,50.64
+2015-11-02T00:00:00,75017,Foggy until afternoon.,43.01,50.34
+2015-11-02T00:00:00,75018,Foggy until afternoon.,43.02,50.13
+2015-11-02T00:00:00,75019,Foggy until afternoon.,43.03,49.96
+2015-11-02T00:00:00,75001,Foggy until afternoon.,43.14,50.68
+2015-11-02T00:00:00,75020,Foggy until afternoon.,43.08,50.17
+2015-11-02T00:00:00,75002,Foggy until afternoon.,43.1,50.55
+2015-11-02T00:00:00,75003,Foggy until afternoon.,43.13,50.62
+2015-11-02T00:00:00,75004,Foggy until afternoon.,43.19,50.75
+2015-11-02T00:00:00,75005,Foggy until afternoon.,43.27,51.1
+2015-11-02T00:00:00,75006,Foggy until afternoon.,43.23,51.07
+2015-11-02T00:00:00,75007,Foggy until afternoon.,43.09,50.82
+2015-11-02T00:00:00,75008,Foggy until afternoon.,43.07,50.71
+2015-11-02T00:00:00,75009,Foggy until afternoon.,43.08,50.48
+2015-11-02T00:00:00,76500,Foggy until evening.,41.83,49.67
+2015-11-02T00:00:00,76700,Foggy in the morning.,45.02,59.07
+2015-11-02T00:00:00,76230,Foggy until evening.,41.61,49.06
+2015-11-02T00:00:00,76210,Foggy in the morning.,44.4,57.45
+2015-11-02T00:00:00,76380,Foggy until evening.,41.95,50.72
+2015-11-02T00:00:00,76160,Foggy until evening.,41.44,48.26
+2015-11-02T00:00:00,76200,Foggy in the morning.,41.01,58.01
+2015-11-02T00:00:00,76400,Foggy in the morning.,44.14,57.38
+2015-11-02T00:00:00,76530,Foggy until evening.,41.77,49.45
+2015-11-02T00:00:00,76120,Foggy until evening.,41.83,50.04
+2015-11-02T00:00:00,76600,Foggy in the morning.,45.02,58.39
+2015-11-02T00:00:00,76600,Foggy in the morning.,45.1,58.02
+2015-11-02T00:00:00,76600,Foggy in the morning.,44.87,58.81
+2015-11-02T00:00:00,76600,Foggy in the morning.,45.03,58.68
+2015-11-02T00:00:00,76600,Foggy in the morning.,44.39,58.23
+2015-11-02T00:00:00,76140,Foggy until evening.,41.81,50.02
+2015-11-02T00:00:00,76170,Foggy in the morning.,44.35,57.23
+2015-11-02T00:00:00,76150,Foggy until evening.,42.01,51.14
+2015-11-02T00:00:00,76290,Foggy in the morning.,44.75,58.85
+2015-11-02T00:00:00,76350,Foggy until evening.,41.51,48.4
+2015-11-02T00:00:00,76000,Foggy until evening.,41.76,49.81
+2015-11-02T00:00:00,76000,Foggy until evening.,41.58,48.89
+2015-11-02T00:00:00,76000,Foggy until evening.,41.57,48.86
+2015-11-02T00:00:00,76800,Foggy until evening.,41.42,48.19
+2015-11-02T00:00:00,76300,Foggy until evening.,41.52,48.55
+2015-11-02T00:00:00,77170,Foggy until afternoon.,42.91,49.9
+2015-11-02T00:00:00,77420,Foggy until afternoon.,43.21,49.29
+2015-11-02T00:00:00,77500,Foggy until afternoon.,43.19,49.24
+2015-11-02T00:00:00,77700,Foggy until afternoon.,43.18,49.43
+2015-11-02T00:00:00,77380,Foggy until afternoon.,42.9,49.84
+2015-11-02T00:00:00,77120,Foggy until afternoon.,43.17,49.57
+2015-11-02T00:00:00,77190,Foggy until afternoon.,42.88,50.15
+2015-11-02T00:00:00,77300,Foggy until afternoon.,42.98,49.46
+2015-11-02T00:00:00,77400,Foggy until afternoon.,43.18,49.33
+2015-11-02T00:00:00,77040,Foggy until afternoon.,43.2,49.35
+2015-11-02T00:00:00,77100,Foggy until afternoon.,41.94,49.31
+2015-11-02T00:00:00,77000,Foggy until afternoon.,42.9,50.42
+2015-11-02T00:00:00,77350,Foggy until afternoon.,42.89,50.28
+2015-11-02T00:00:00,77550,Foggy until afternoon.,42.9,50.11
+2015-11-02T00:00:00,77130,Foggy until afternoon.,42.85,49.81
+2015-11-02T00:00:00,77130,Foggy until afternoon.,42.85,49.79
+2015-11-02T00:00:00,77250,Foggy until afternoon.,42.85,49.81
+2015-11-02T00:00:00,77140,Foggy until afternoon.,42.52,51.03
+2015-11-02T00:00:00,77186,Foggy until afternoon.,43.2,49.31
+2015-11-02T00:00:00,77330,Foggy until afternoon.,43.18,49.67
+2015-11-02T00:00:00,77680,Foggy until afternoon.,43.2,49.5
+2015-11-02T00:00:00,77340,Foggy until afternoon.,43.21,49.4
+2015-11-02T00:00:00,77160,Foggy until afternoon.,42.94,52.98
+2015-11-02T00:00:00,77176,Foggy until afternoon.,42.9,50.25
+2015-11-02T00:00:00,77200,Foggy until afternoon.,43.19,49.34
+2015-11-02T00:00:00,77270,Foggy until afternoon.,42.27,48.69
+2015-11-02T00:00:00,78990,Foggy until evening.,42.4,48.12
+2015-11-02T00:00:00,78700,Foggy until afternoon.,40.53,48.41
+2015-11-02T00:00:00,78330,Foggy until evening.,42.64,48.85
+2015-11-02T00:00:00,78280,Foggy until evening.,42.55,48.49
+2015-11-02T00:00:00,78800,Foggy until afternoon.,42.61,50.57
+2015-11-02T00:00:00,78170,Foggy until afternoon.,42.83,50.02
+2015-11-02T00:00:00,78600,Foggy until afternoon.,42.36,50.21
+2015-11-02T00:00:00,78200,Foggy until evening.,40.96,48.01
+2015-11-02T00:00:00,78160,Foggy until evening.,42.65,50.02
+2015-11-02T00:00:00,78370,Foggy until evening.,42.57,48.48
+2015-11-02T00:00:00,78300,Foggy until evening.,42.55,49.4
+2015-11-02T00:00:00,78120,Foggy until evening.,42.63,48.81
+2015-11-02T00:00:00,78100,Foggy until evening.,42.61,49.86
+2015-11-02T00:00:00,78500,Foggy until afternoon.,42.39,50.37
+2015-11-02T00:00:00,78190,Foggy until evening.,42.22,48.07
+2015-11-02T00:00:00,78140,Foggy until afternoon.,42.03,51.78
+2015-11-02T00:00:00,78000,Foggy until afternoon.,42.6,50.4
+2015-11-02T00:00:00,78130,Foggy until evening.,41.62,48.62
+2015-11-02T00:00:00,78110,Foggy until afternoon.,42.61,50.62
+2015-11-02T00:00:00,79000,Mostly cloudy throughout the day.,45.38,68.93
+2015-11-02T00:00:00,79100,Partly cloudy throughout the day.,42.32,66.11
+2015-11-02T00:00:00,80100,Foggy throughout the day.,40.66,49.91
+2015-11-02T00:00:00,80000,Foggy throughout the day.,40.9,46.69
+2015-11-02T00:00:00,80000,Foggy throughout the day.,40.89,46.69
+2015-11-02T00:00:00,80000,Foggy throughout the day.,40.9,46.67
+2015-11-02T00:00:00,80000,Foggy throughout the day.,40.96,46.69
+2015-11-02T00:00:00,80000,Foggy throughout the day.,40.92,46.71
+2015-11-02T00:00:00,80480,Foggy throughout the day.,40.7,46.73
+2015-11-02T00:00:00,81000,Breezy until evening and light rain overnight.,47.22,64.15
+2015-11-02T00:00:00,81400,Breezy throughout the day and light rain overnight.,49.47,62.29
+2015-11-02T00:00:00,81100,Breezy throughout the day and rain starting in the afternoon.,54.09,63.56
+2015-11-02T00:00:00,81200,Rain starting in the afternoon and breezy starting in the evening.,52.18,63.83
+2015-11-02T00:00:00,82100,Breezy throughout the day and rain overnight.,56.44,66.81
+2015-11-02T00:00:00,82000,Breezy throughout the day and rain overnight.,55.14,66.81
+2015-11-02T00:00:00,83400,Breezy until afternoon and mostly cloudy starting in the evening.,57.48,65.69
+2015-11-02T00:00:00,83300,Partly cloudy until evening and breezy in the morning.,45.97,66
+2015-11-02T00:00:00,83600,Breezy throughout the day and partly cloudy until evening.,46,66
+2015-11-02T00:00:00,83500,Mostly cloudy starting in the evening.,57.58,65.62
+2015-11-02T00:00:00,83110,Windy until afternoon and mostly cloudy starting in the evening.,57.47,65.61
+2015-11-02T00:00:00,83000,Mostly cloudy starting in the evening.,58.02,65.88
+2015-11-02T00:00:00,84000,Overcast starting in the evening.,41.61,69.62
+2015-11-02T00:00:00,84000,Overcast starting in the evening.,40.91,69.8
+2015-11-02T00:00:00,84100,Overcast starting in the evening.,40.29,68.51
+2015-11-02T00:00:00,84200,Mostly cloudy starting in the evening.,41.47,69.78
+2015-11-02T00:00:00,84300,Mostly cloudy starting in the evening.,42.55,70
+2015-11-02T00:00:00,84170,Overcast starting in the evening.,41.72,69.66
+2015-11-02T00:00:00,85000,Partly cloudy throughout the day.,46.18,66.46
+2015-11-02T00:00:00,85100,Partly cloudy throughout the day.,51.54,66.56
+2015-11-02T00:00:00,86100,Partly cloudy throughout the day.,40.56,67.24
+2015-11-02T00:00:00,86000,Partly cloudy throughout the day.,40.2,67.79
+2015-11-02T00:00:00,87000,Light rain overnight.,48.49,64.78
+2015-11-02T00:00:00,88000,Foggy throughout the day.,42.76,53.57
+2015-11-02T00:00:00,88200,Foggy throughout the day.,40.09,53.75
+2015-11-02T00:00:00,88100,Foggy starting in the evening.,41.23,49.77
+2015-11-02T00:00:00,89000,Foggy in the morning.,42.46,61.5
+2015-11-02T00:00:00,89100,Foggy in the morning.,42.75,53.65
+2015-11-02T00:00:00,90000,Foggy throughout the day.,41.53,58.08
+2015-11-02T00:00:00,91290,Foggy until afternoon.,42.89,48.85
+2015-11-02T00:00:00,91200,Foggy until afternoon.,42.98,48.17
+2015-11-02T00:00:00,91150,Foggy until afternoon.,42.95,48.73
+2015-11-02T00:00:00,91000,Foggy until afternoon.,42.95,48.92
+2015-11-02T00:00:00,91800,Foggy until afternoon.,42.9,49.25
+2015-11-02T00:00:00,91100,Foggy until afternoon.,42.96,49.14
+2015-11-02T00:00:00,91210,Foggy until afternoon.,42.96,48.47
+2015-11-02T00:00:00,91260,Foggy until afternoon.,42.96,48.36
+2015-11-02T00:00:00,91940,Foggy until afternoon.,42.7,49.86
+2015-11-02T00:00:00,91160,Foggy until afternoon.,42.82,48.85
+2015-11-02T00:00:00,91300,Foggy until afternoon.,42.65,50.03
+2015-11-02T00:00:00,91230,Foggy until afternoon.,42.91,48.96
+2015-11-02T00:00:00,91120,Foggy until afternoon.,42.61,50.04
+2015-11-02T00:00:00,91700,Foggy until afternoon.,42.9,48.62
+2015-11-02T00:00:00,91600,Foggy until afternoon.,42.91,48.4
+2015-11-02T00:00:00,92160,Foggy until afternoon.,42.83,50.21
+2015-11-02T00:00:00,92600,Foggy until afternoon.,42.93,50.15
+2015-11-02T00:00:00,92220,Foggy until afternoon.,43.19,51.05
+2015-11-02T00:00:00,92100,Foggy until afternoon.,42.88,50.73
+2015-11-02T00:00:00,92290,Foggy until afternoon.,42.69,50.66
+2015-11-02T00:00:00,92140,Foggy until afternoon.,42.81,51.03
+2015-11-02T00:00:00,92110,Foggy until afternoon.,42.95,50.11
+2015-11-02T00:00:00,92700,Foggy until afternoon.,42.6,50.89
+2015-11-02T00:00:00,92400,Foggy until afternoon.,43.01,50.1
+2015-11-02T00:00:00,92230,Foggy until afternoon.,42.92,49.91
+2015-11-02T00:00:00,92130,Foggy until afternoon.,43.03,50.99
+2015-11-02T00:00:00,92800,Foggy until afternoon.,42.99,50.13
+2015-11-02T00:00:00,92250,Foggy until afternoon.,43,49.97
+2015-11-02T00:00:00,92300,Foggy until afternoon.,42.95,50.31
+2015-11-02T00:00:00,92190,Foggy until afternoon.,42.68,51.02
+2015-11-02T00:00:00,92120,Foggy until afternoon.,43.55,51.85
+2015-11-02T00:00:00,92000,Foggy until afternoon.,42.95,50.03
+2015-11-02T00:00:00,92200,Foggy until afternoon.,43.02,50.18
+2015-11-02T00:00:00,92800,Foggy until afternoon.,42.98,50.19
+2015-11-02T00:00:00,92500,Foggy until afternoon.,42.89,50.09
+2015-11-02T00:00:00,92210,Foggy until afternoon.,42.85,50.54
+2015-11-02T00:00:00,92150,Foggy until afternoon.,42.94,50.31
+2015-11-02T00:00:00,92310,Foggy until afternoon.,42.66,50.81
+2015-11-02T00:00:00,92170,Foggy until afternoon.,43.19,51.19
+2015-11-02T00:00:00,92390,Foggy until afternoon.,42.95,49.62
+2015-11-02T00:00:00,93300,Foggy until afternoon.,42.98,49.47
+2015-11-02T00:00:00,93600,Foggy until afternoon.,42.66,49
+2015-11-02T00:00:00,93000,Foggy until afternoon.,42.92,49.24
+2015-11-02T00:00:00,93140,Foggy until afternoon.,42.97,49.25
+2015-11-02T00:00:00,93390,Foggy until afternoon.,42.96,49.15
+2015-11-02T00:00:00,93700,Foggy until afternoon.,42.48,49.08
+2015-11-02T00:00:00,93800,Foggy until afternoon.,42.67,50.15
+2015-11-02T00:00:00,93220,Foggy until afternoon.,42.96,49.3
+2015-11-02T00:00:00,93120,Foggy until afternoon.,42.64,49.23
+2015-11-02T00:00:00,93190,Foggy until afternoon.,42.96,49.07
+2015-11-02T00:00:00,93100,Foggy until afternoon.,43.02,49.79
+2015-11-02T00:00:00,93330,Foggy until afternoon.,42.97,49.43
+2015-11-02T00:00:00,93160,Foggy until afternoon.,42.95,49.38
+2015-11-02T00:00:00,93130,Foggy until afternoon.,42.99,49.47
+2015-11-02T00:00:00,93500,Foggy until afternoon.,43,49.66
+2015-11-02T00:00:00,93110,Foggy until afternoon.,42.98,49.46
+2015-11-02T00:00:00,93200,Foggy until afternoon.,42.9,49.36
+2015-11-02T00:00:00,93400,Foggy until afternoon.,42.98,49.91
+2015-11-02T00:00:00,93240,Foggy until afternoon.,41.85,49.22
+2015-11-02T00:00:00,93420,Foggy until afternoon.,42.06,48.72
+2015-11-02T00:00:00,93200,Foggy until afternoon.,42.98,49.63
+2015-11-02T00:00:00,93260,Foggy until afternoon.,43.02,49.78
+2015-11-02T00:00:00,93150,Foggy until afternoon.,41.88,49.17
+2015-11-02T00:00:00,93340,Foggy until afternoon.,42.97,49.29
+2015-11-02T00:00:00,94140,Foggy until afternoon.,43.1,50.14
+2015-11-02T00:00:00,94470,Foggy until afternoon.,42.94,49.14
+2015-11-02T00:00:00,94500,Foggy until afternoon.,43.24,49.28
+2015-11-02T00:00:00,94220,Foggy until afternoon.,43.13,50.32
+2015-11-02T00:00:00,94430,Foggy until afternoon.,43.25,49.25
+2015-11-02T00:00:00,94600,Foggy until afternoon.,42.98,48.88
+2015-11-02T00:00:00,94000,Foggy until afternoon.,42.97,49.01
+2015-11-02T00:00:00,94120,Foggy until afternoon.,43,49.66
+2015-11-02T00:00:00,94200,Foggy until afternoon.,43.21,50.64
+2015-11-02T00:00:00,94240,Foggy until afternoon.,43.11,50.35
+2015-11-02T00:00:00,94700,Foggy until afternoon.,43.04,49.84
+2015-11-02T00:00:00,94130,Foggy until afternoon.,43,49.65
+2015-11-02T00:00:00,94100,Foggy until afternoon.,42.97,49.19
+2015-11-02T00:00:00,94190,Foggy until afternoon.,42.93,48.83
+2015-11-02T00:00:00,94300,Foggy until afternoon.,43.05,49.95
+2015-11-02T00:00:00,94400,Foggy until afternoon.,43.08,49.94
+2015-11-02T00:00:00,94270,Foggy until afternoon.,43.55,51.66
+2015-11-02T00:00:00,95100,Foggy until afternoon.,42.56,50.64
+2015-11-02T00:00:00,95880,Foggy until afternoon.,42.65,50.04
+2015-11-02T00:00:00,95120,Foggy until afternoon.,41.43,48.89
+2015-11-02T00:00:00,95220,Foggy until afternoon.,41.75,49.67
+2015-11-02T00:00:00,95870,Foggy until afternoon.,42.49,50.56
+2015-11-02T00:00:00,95000,Foggy until afternoon.,39.6,48.33
+2015-11-02T00:00:00,95170,Foggy until afternoon.,42.67,49.95
+2015-11-02T00:00:00,95130,Foggy until afternoon.,41.44,48.86
+2015-11-02T00:00:00,95140,Foggy in the morning.,41.17,49.38
+2015-11-02T00:00:00,95500,Foggy until afternoon.,40.61,49.34
+2015-11-02T00:00:00,95190,Foggy until afternoon.,41.43,48.83
+2015-11-02T00:00:00,95280,Foggy until evening.,39.51,48.14
+2015-11-02T00:00:00,95200,Foggy until afternoon.,41.84,49.33
+2015-11-02T00:00:00,95150,Foggy until afternoon.,41.09,48.8
+2015-11-02T00:00:00,95400,Foggy until afternoon.,40.86,49.21
+2015-11-02T00:00:00,97100,Clear throughout the day.,79,85.44
+2015-11-02T00:00:00,97130,Clear throughout the day.,79,85.31
+2015-11-02T00:00:00,97139,Clear throughout the day.,79.21,84.85
+2015-11-02T00:00:00,97200,Clear throughout the day.,42.24,86.47
+2015-11-02T00:00:00,97232,Clear throughout the day.,36.66,86.46
+2015-11-02T00:00:00,97300,Clear throughout the day.,72.78,91.17
+2015-11-02T00:00:00,97432,Clear throughout the day.,70,83.77
+2015-11-02T00:00:00,97420,Partly cloudy until evening.,70,82.69
+2015-11-02T00:00:00,97440,Partly cloudy until evening.,70,82.48
+2015-11-02T00:00:00,97400,Mostly cloudy until evening.,70,82.29
+2015-11-02T00:00:00,97410,Clear throughout the day.,70,83.93
+2015-11-02T00:00:00,97490,Mostly cloudy until evening.,70,82.18
+2015-11-02T00:00:00,97600,Clear throughout the day.,79,88
+2015-11-02T00:00:00,98713,Breezy in the morning.,75,82
+2015-11-02T00:00:00,98800,Clear throughout the day.,57,82
+2015-11-02T00:00:00,98800,Clear throughout the day.,57,82
+2015-11-02T00:00:00,98800,Clear throughout the day.,57,82
+2015-11-02T00:00:00,98800,Clear throughout the day.,57,82
+2015-11-02T00:00:00,98800,Clear throughout the day.,57,82
