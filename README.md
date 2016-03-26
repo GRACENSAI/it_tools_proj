@@ -1,2 +1,9 @@
-# it_tools_proj
-Project Submission
+# IT Tools in Big Data project repository.
+
+Submitted by:
+
+Ajinkya Chandrayan   Gaurav Remaniche
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
