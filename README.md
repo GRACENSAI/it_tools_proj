@@ -2,12 +2,22 @@
 
 Submitted by:
 
-Ajinkya Chandrayan   Gaurav Remaniche
+Ajinkya Chandrayan,   Gaurav Remaniche
 
 
 -------------------------------------------------------------------------------------------------------------------------------
 
 Project Directories
+
+* Aggregate_Tables_Data :
+
+This folder contains the  data downloaded from the final aggrigate tables in csv files:
+
++ Customer
+
++ Product
+
++ Weather
 
 
 * Daily_Data_Stage  : 
@@ -55,15 +65,27 @@ ii. postalcode_lat_log
 
 * Hive_Scripts :
 
-This directory holds the hive query scripts.
+This directory holds the hive query scripts for :
 
-i.   create_tables
-ii.  load_data_stg_initial
-iii. load_data_stg_daily
-iv.  update_intermediate
-v.   update_aggrigate
++ First Time Run
+   - This folder contains Hive scripts that needs to be run at the first time of system setup.
++ Daily Run
+   - This folder contains Hive scripts to be executed daily.
+
+* Automation First Run :
+
+This shell script automates the first system setup - right fom data procurement to data archiving.
+
+* Automation Daily Run :
+
+This shell script automates the daily system processes - right fom data procurement to data archiving.
+
+* Data Warehouse Layout :
+
+This spreadsheet contains the data warehouse layout - giving details of the staging tables, intermediate tables and aggrigate tables.
+
+* System Architecture :
+
+This image explains the system architecture and data flow.
 
 
-* Automation :
-
-This shell script automates the whole process - from data procurement to data archiving.
