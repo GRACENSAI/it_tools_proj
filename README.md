@@ -13,11 +13,11 @@ Project Directories
 
 This folder contains the  data downloaded from the final aggrigate tables in csv files:
 
-+ Customer
+- Customer
 
-+ Product
+- Product
 
-+ Weather
+- Weather
 
 
 * Daily_Data_Stage  : 
@@ -71,6 +71,10 @@ This directory holds the hive query scripts for :
    - This folder contains Hive scripts that needs to be run at the first time of system setup.
 + Daily Run
    - This folder contains Hive scripts to be executed daily.
+
+* Oozie_Workflow :
+
+This folder contains the Oozie Workflow files for the First Run and Daily Run workflows.
 
 * Automation First Run :
 
